@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20190617192601">
+  <metadatos>
+    <identificador>BOE-A-2019-2584</identificador>
+    <titulo>Orden CNU/174/2019, de 11 de febrero, por la que se aprueba el Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>48</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9565">Ministerio de Ciencia, Innovación y Universidades</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>CNU/174/2019</numero_oficial>
+    <fecha_disposicion>20190211</fecha_disposicion>
+    <fecha_publicacion>20190225</fecha_publicacion>
+    <fecha_vigencia>20190226</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>17710</pagina_inicial>
+    <pagina_final>17728</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2019-2584</url_epub>
+    <url_pdf>/boe/dias/2019/02/25/pdfs/BOE-A-2019-2584.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/o/2019/02/11/cnu174</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2019/02/11/cnu174">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2019-2584</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-02-11</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cnu174</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2019-2584</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-02-11</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cnu174</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2019/02/11/cnu174"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden CNU/174/2019, de 11 de febrero, por la que se aprueba el Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-02-25</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2019/02/11/cnu174/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="1600" orden="">Consejos Sociales de las Universidades</materia>
+      <materia codigo="7070" orden="">Universidad Nacional de Educación a Distancia</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="114" orden="">Educación y enseñanza</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1986-32187" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>la Orden de 4 de diciembre de 1986</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1985-4817" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 8 de la Ley 5/1985, de 21 de marzo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El artículo 8 de la Ley 5/1985, de 21 de marzo, del Consejo social de Universidades, establece que los Consejos Sociales de Universidades sometidas al ámbito de aplicación de la Ley tienen que elaborar su propio Reglamento de Organización y Funcionamiento del Consejo Social y elevarlo para su aprobación, mediante resolución, al Ministerio de Ciencia, Innovación y Universidades.</p>
+    <p class="parrafo">El Consejo Social de la UNED, en sesión celebrada el día 29 de enero de 2019, adoptó por unanimidad la propuesta de Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia que se adjunta como anexo I de esta resolución.</p>
+    <p class="parrafo">Visto el mismo, y considerando que su contenido se ajusta a la legalidad vigente, este Ministerio ha dispuesto:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">Aprobar el Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia y que se recoge en el anexo I de esta orden.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">A partir de la entrada en vigor de esta orden ministerial queda derogada la Orden de 4 de diciembre de 1986, por la que se aprueba el Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia.</p>
+    <p class="articulo">Tercero.</p>
+    <p class="parrafo">La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 11 de febrero de 2019.–El Ministro de Ciencia, Innovación y Universidades, Pedro Duque Duque.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia</p>
+    <p class="titulo_num">TÍTULO PRIMERO</p>
+    <p class="titulo_tit">De la naturaleza del Consejo Social y del régimen jurídico de sus actuaciones</p>
+    <p class="capitulo_num">CAPÍTULO I</p>
+    <p class="capitulo_tit">Naturaleza y sede</p>
+    <p class="articulo">Artículo 1. Naturaleza.</p>
+    <p class="parrafo">1. El Consejo Social es el órgano colegiado de participación de la sociedad en el gobierno de la Universidad Nacional de Educación a Distancia.</p>
+    <p class="parrafo">2. Además de las funciones que le atribuye la legislación general, el Consejo Social tiene plena capacidad para regular su organización y funcionamiento internos con sujeción, en todo caso, a las exigencias de la Ley 5/1985, de 21 de marzo, del Consejo Social de Universidades.</p>
+    <p class="parrafo">3. Las relaciones entre el Consejo Social y los demás órganos colegiados o unipersonales de la Universidad se regirán por los principios de coordinación, colaboración y lealtad en el ejercicio de sus respectivas atribuciones.</p>
+    <p class="articulo">Artículo 2. Sede y medios del Consejo Social.</p>
+    <p class="parrafo">1. La sede del Consejo Social es la de la propia Universidad Nacional de Educación a Distancia.</p>
+    <p class="parrafo">2. Sin perjuicio de lo anterior, el Consejo Social podrá constituirse válidamente en cualquier otro lugar, dentro de su ámbito territorial, por decisión de su Presidente.</p>
+    <p class="parrafo">3. El Consejo Social dispondrá de una Secretaría dotada de los medios materiales necesarios para el adecuado cumplimiento de sus funciones que figurarán en las partidas presupuestarias del Consejo Social dentro de los presupuestos de la Universidad.</p>
+    <p class="parrafo">4. Los órganos competentes de la Universidad velarán para que el Consejo Social disponga en todo momento de medios e instalaciones adecuadas para llevar a cabo las funciones que tiene atribuidas.</p>
+    <p class="parrafo">5. El Consejo Social empleará los medios de la Universidad y el personal de la misma que tenga adscrito.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Régimen jurídico</p>
+    <p class="articulo">Artículo 3. Régimen jurídico de las actuaciones del Consejo Social.</p>
+    <p class="parrafo">El régimen jurídico del Consejo Social de la Universidad Nacional de Educación a Distancia es el establecido en la Ley 5/1985, en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, en el presente Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia, en los Estatutos de la Universidad y en las demás disposiciones legales y reglamentarias de general aplicación.</p>
+    <p class="articulo">Artículo 4. Impugnación de los acuerdos del Consejo Social.</p>
+    <p class="parrafo">1. Los acuerdos adoptados válidamente por el Consejo Social serán inmediatamente ejecutivos, incumbiendo su ejecución, de acuerdo con la ley, al rector de la Universidad.</p>
+    <p class="parrafo">2. Los acuerdos del Pleno agotarán la vía administrativa y serán impugnables directamente ante la jurisdicción contencioso-administrativa, sin perjuicio de los recursos que contra los mismos se prevean en las leyes.</p>
+    <p class="parrafo">3. Corresponde al Pleno del Consejo Social la revisión de oficio de sus acuerdos en los términos previstos en las leyes, así como la resolución de los recursos extraordinarios de revisión de sus propios acuerdos.</p>
+    <p class="parrafo">4. El Consejo Social podrá solicitar informe de la Asesoría Jurídica de la Universidad sobre los recursos presentados contra sus actos y sobre cualquier otra cuestión que se plantee en el ejercicio de las competencias que les atribuyen las leyes como órgano de gobierno de la Universidad.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">Funciones y competencias</p>
+    <p class="articulo">Artículo 5. Funciones del Consejo Social.</p>
+    <p class="parrafo">1. Para la consecución de los fines que tiene legalmente encomendados, el Consejo Social ejercerá las competencias previstas por el ordenamiento jurídico.</p>
+    <p class="parrafo">2. En particular, son funciones del Consejo Social:</p>
+    <p class="parrafo_2">a. Supervisar las actividades de carácter económico de la Universidad y del rendimiento de sus servicios.</p>
+    <p class="parrafo">b. Promover las relaciones entre la Universidad y su entorno cultural, profesional, económico y social al servicio de la calidad de la actividad universitaria, potenciando su visibilidad.</p>
+    <p class="parrafo">c. Aprobar el presupuesto anual y la programación plurianual de la Universidad a propuesta del Consejo de Gobierno, así como las cuentas anuales de la Universidad y de las entidades que de ella puedan depender.</p>
+    <p class="parrafo">d. Colaborar en el diseño de una oferta formativa de calidad acorde con los objetivos de la Universidad.</p>
+    <p class="parrafo">e. Definir los criterios de adjudicación de la política de becas y ayudas que se conceden con cargo a los recursos ordinarios de la Universidad y su supervisión, conforme a la política fijada por el Consejo de Gobierno de la Universidad.</p>
+    <p class="parrafo">f. Sin perjuicio de los criterios establecidos por el Gobierno sobre el régimen retributivo del profesorado y de la reglamentación general sobre las retribuciones adicionales ligadas a los méritos docentes, investigadores y de gestión previstas en los artículos 55 y 69 de la Ley Orgánica de Universidades, a propuesta del Consejo de Gobierno, podrá acordar la asignación de estos u otros complementos retributivos, de acuerdo con los límites que establezca el Gobierno.</p>
+    <p class="parrafo">g. Cualquier otra función que le atribuyan las leyes o los Estatutos de la Universidad.</p>
+    <p class="parrafo_2">3. El Consejo Social podrá recabar de los distintos órganos de la Universidad, y dentro del marco de sus competencias, cuanta información y documentos considere necesarios, requerimientos a los que se deberá corresponder con la mayor celeridad para facilitar el ejercicio de las funciones que le corresponden.</p>
+    <p class="parrafo">4. Para el correcto ejercicio de las competencias que tiene atribuidas el Consejo Social, se podrán adoptar por el Pleno, acuerdos específicos de organización que establezcan requisitos y trámites complementarios a los previstos en el presente Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia que, en ningún caso, podrán suponer modificaciones puntuales del Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia, sin reunir la mayoría requerida para ello.</p>
+    <p class="titulo_num">TÍTULO SEGUNDO</p>
+    <p class="titulo_tit">Organización del Consejo Social</p>
+    <p class="capitulo_num">CAPÍTULO I</p>
+    <p class="capitulo_tit">Disposiciones generales</p>
+    <p class="articulo">Artículo 6. Estructura del Consejo Social.</p>
+    <p class="parrafo">1. El Consejo Social se estructura de la siguiente manera:</p>
+    <p class="parrafo_2">a. Presidente</p>
+    <p class="parrafo">b. Vicepresidente/s</p>
+    <p class="parrafo">c. Secretario</p>
+    <p class="articulo">Artículo 7. Composición del Consejo Social.</p>
+    <p class="parrafo">1. El Consejo Social de la Universidad Nacional de Educación a Distancia se compone de diecinueve miembros: Tres miembros natos, cuatro en representación del Consejo de Gobierno de la Universidad y 12 en representación de los intereses sociales.</p>
+    <p class="parrafo">2. Serán miembros natos del Consejo Social: El Rector, el Secretario General y el Gerente de la Universidad.</p>
+    <p class="parrafo">3. Serán miembros del Consejo Social en representación del Consejo de Gobierno de la Universidad: Un Profesor, un Profesor-tutor, un estudiante y un representante del personal de Administración y Servicios elegidos, de entre los miembros del Consejo de Gobierno, mediante el procedimiento que se establezca en los Estatutos de la Universidad.</p>
+    <p class="parrafo">4. Serán Vocales, en representación de los intereses sociales, los designados por las siguientes instituciones:</p>
+    <p class="parrafo_2">a. Tres miembros designados por las asociaciones empresariales más representativas a nivel nacional, de conformidad con la normativa vigente.</p>
+    <p class="parrafo">b. Tres miembros designados por los sindicatos más representativos a nivel nacional, de conformidad con la normativa vigente.</p>
+    <p class="parrafo">c. Dos miembros designados por el Ministro competente en materia de enseñanzas universitarias, de entre personas de reconocido prestigio en los ámbitos científico, técnico, cultural, artístico, profesional, social o económico.</p>
+    <p class="parrafo">d. Cuatro designados por la Conferencia General de Política Universitaria, de entre personas de especial cualificación y relieve para la comunidad universitaria, vinculadas a fundaciones, entidades científicas, artísticas, culturales o financieras, Colegios profesionales y otras corporaciones de Derecho Público u organizaciones de análoga naturaleza.</p>
+    <p class="parrafo_2">5. Una vez designados los Vocales por las respectivas instituciones, el Rector de la Universidad procederá a su nombramiento, ordenando su publicación en el «Boletín Oficial de Estado».</p>
+    <p class="articulo">Artículo 8. Incompatibilidades de los miembros del Consejo Social.</p>
+    <p class="parrafo">1. La condición de Vocal del Consejo Social en representación de los intereses sociales es incompatible con el desempeño, por si o por persona interpuesta, de cargos directivos en empresas o sociedades que contraten con la Universidad, así como que tengan una participación superior al 10% en el capital de las mismas. a estos efectos no se tendrán en cuenta los contratos celebrados al amparo de lo dispuesto en el artículo 83 de la Ley Orgánica 6/2001, de Universidades, ni aquellos cuyo objeto sea la realización de actividades similares de investigación, docencia, prácticas de formación profesional o colaboración con la Universidad.</p>
+    <p class="parrafo">2. La condición de Vocal, en representación de los intereses sociales, es incompatible con la de miembro en activo de la propia comunidad universitaria.</p>
+    <p class="articulo">Artículo 9. Mandato de los miembros del Consejo Social.</p>
+    <p class="parrafo">1. El mandato de los miembros del Consejo Social designados por el Ministro y por la Conferencia General de Política Universitaria, tendrá una duración de cuatro años, pudiendo ser prorrogado por una sola vez por igual período de tiempo.</p>
+    <p class="parrafo">2. El mandato de los representantes del Consejo de Gobierno de la Universidad en el Consejo Social, tendrá la duración que determinen los Estatutos de la Universidad. En todo caso, el Rector, Secretario General y Gerente, en su condición de miembros natos, permanecerán mientras ostenten sus respectivos cargos. El cese como miembro del Consejo de Gobierno de la Universidad supondrá la pérdida de la condición de Vocal del Consejo Social.</p>
+    <p class="parrafo">3. El mandato de los miembros designados por las asociaciones empresariales y sindicatos estará vigente mientras así lo determine la entidad a la que representan.</p>
+    <p class="articulo">Artículo 10. Ejercicio del cargo de los miembros del Consejo Social.</p>
+    <p class="parrafo">1. Los miembros del Consejo Social desempeñarán sus cargos personalmente, sin que puedan designar sustitutos.</p>
+    <p class="parrafo">2. Podrán, sin embargo, delegar su voto, por escrito y para una reunión concreta, en otro miembro del Consejo Social. La delegación contendrá expresamente la instrucción específica sobre el sentido del voto para cada uno de los puntos del orden del día. Cada Consejero no podrá asumir más de una delegación de voto.</p>
+    <p class="parrafo">3. Los miembros del Consejo Social percibirán una compensación por asistencia a las sesiones del Pleno y Comisiones Delegadas en la forma y cuantía que fije el Pleno en su primera reunión anual.</p>
+    <p class="parrafo">4. Asimismo, podrán percibir las compensaciones económicas que correspondan legalmente por los gastos de desplazamiento y alojamiento en los que incurran con motivo de su asistencia a las sesiones.</p>
+    <p class="parrafo">5. Los miembros del Consejo Social, representantes de los intereses sociales, pertenecerán al grupo 1 en materia de dietas, gastos de locomoción y de alojamiento a que tuviesen derecho por razón de su participación en el Consejo.</p>
+    <p class="parrafo">6. En caso de renuncia por parte de alguno de los miembros del Consejo Social a la percepción de todas o alguna de las compensaciones previstas en este artículo, el importe de las mismas se destinará a los fines que se determinen por el Pleno.</p>
+    <p class="articulo">Artículo 11. Derechos de los miembros del Consejo Social.</p>
+    <p class="parrafo">Son derechos de los miembros del Consejo Social:</p>
+    <p class="parrafo_2">1. Recibir información de cuanto ataña o interese al Consejo Social y que contribuya al buen funcionamiento del mismo.</p>
+    <p class="parrafo">2. Conocer con la debida antelación los datos, información y documentación necesaria para el ejercicio de sus cometidos y, en todo caso, dentro de los plazos previstos en este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia.</p>
+    <p class="parrafo">3. Proponer al Presidente la celebración de sesión extraordinaria del Pleno o de las Comisiones Delegadas, o la incorporación al orden del día de un determinado asunto, de acuerdo con lo establecido en este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia.</p>
+    <p class="parrafo">4. Presentar propuestas e iniciativas al Pleno o a las Comisiones Delegadas.</p>
+    <p class="parrafo">5. Acceder a las actas y certificaciones de los acuerdos y solicitar al Secretario la entrega de copias de las mismas.</p>
+    <p class="parrafo">6. Percibir las indemnizaciones y compensaciones que correspondan por asistencia a las sesiones del Pleno o a sus Comisiones Delegadas.</p>
+    <p class="articulo">Artículo 12. Deberes de los miembros del Consejo Social.</p>
+    <p class="parrafo">Son deberes de los miembros del Consejo Social:</p>
+    <p class="parrafo_2">1. Asistir a las sesiones del Pleno y de las Comisiones Delegadas o grupos de trabajo de los que formen parte.</p>
+    <p class="parrafo">2. Observar las normas sobre incompatibilidades que, de acuerdo con la legislación vigente, pudieran afectarles.</p>
+    <p class="parrafo">3. Todos los miembros del órgano están sometidos, como tales, a las normas sobre abstención previstas en el artículo 19.3.c) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="parrafo">4. Cumplir puntualmente los cometidos y gestiones encomendadas por el Pleno o las Comisiones, a título individual o colectivo voluntariamente aceptadas.</p>
+    <p class="parrafo">5. Velar porque el Consejo Social cumpla el cometido que legal y estatutariamente le corresponde, emprendiendo las iniciativas personales o colegiadas que sean necesarias para ello.</p>
+    <p class="parrafo">6. Guardar, en todo caso, el debido sigilo y confidencialidad sobre las deliberaciones, así como sobre las gestiones que lleven a cabo por encargo del Pleno o de las Comisiones.</p>
+    <p class="parrafo">7. No utilizar la información o documentación que se les facilite para fines distintos de aquellos para los que les fueron entregadas.</p>
+    <p class="articulo">Artículo 13. Pérdida de la condición de miembro del Consejo Social.</p>
+    <p class="parrafo">Los Consejeros perderán la condición de miembros del Consejo Social por alguna de las siguientes causas:</p>
+    <p class="parrafo_2">1. Por finalización del período para el que fueron nombrados, una vez publicado su cese en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo">2. Por renuncia aceptada por el órgano que le designó.</p>
+    <p class="parrafo">3. Por fallecimiento.</p>
+    <p class="parrafo">4. Por revocación de la representación que ostentan.</p>
+    <p class="parrafo">5. Por cesar en el cargo, en el caso de los miembros natos.</p>
+    <p class="parrafo">6. Por incurrir en alguna causa de incompatibilidad con posterioridad a su nombramiento.</p>
+    <p class="parrafo">7. Por incapacitación declarada por decisión judicial firme que conlleve la inhabilitación o suspensión para cargos públicos.</p>
+    <p class="parrafo">8. Por cualquier otra causa prevista legalmente.</p>
+    <p class="parrafo_2">Con independencia de lo recogido anteriormente, el Pleno podrá proponer la sustitución de un Consejero, mediante propuesta razonada a la autoridad u órgano que lo designó, en los supuestos siguientes:</p>
+    <p class="parrafo_2">a. Incumplimiento grave o reiterado de sus obligaciones.</p>
+    <p class="parrafo">b. Realización de actividades contrarias al buen funcionamiento de la Universidad o del propio Consejo Social.</p>
+    <p class="parrafo_2">La decisión deberá ser adoptada por mayoría de dos tercios de los Consejeros asistentes, previa audiencia del Consejero afectado.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">De la Presidencia del Consejo Social</p>
+    <p class="articulo">Artículo 14. Nombramiento, mandato y cese del Presidente.</p>
+    <p class="parrafo">1. El Presidente será nombrado por Real Decreto, a propuesta del titular del Ministerio competente en materia de enseñanza universitaria, oído el Rector, de entre los Vocales que representen los intereses sociales.</p>
+    <p class="parrafo">2. El mandato del Presidente del Consejo Social tendrá una duración de cuatro años, pudiendo ser renovado una sola vez por igual período de tiempo.</p>
+    <p class="parrafo">3. El Presidente percibirá las retribuciones o compensaciones económicas que, en su caso, determine el Consejo Social.</p>
+    <p class="parrafo">4. El Presidente cesará en sus funciones por fallecimiento, incapacidad legal, dimisión aceptada por el titular del órgano que le nombró, incompatibilidad sobrevenida, o por Real Decreto, a propuesta del titular del Ministerio competente en materia de enseñanza universitaria, oído el Rector. Su cese como Presidente no implicará, necesariamente, su cese como Vocal.</p>
+    <p class="articulo">Artículo 15. Funciones y competencias del Presidente.</p>
+    <p class="parrafo">1. El Presidente del Consejo Social representa al Consejo social ante la sociedad, las Administraciones Públicas y la comunidad universitaria. Sólo el Presidente podrá realizar declaraciones públicas en nombre del Consejo Social, pudiendo delegar esta facultad, en su caso, en los presidentes de las Comisiones competentes y también autorizar a algún Vocal para intervenciones concretas o particulares.</p>
+    <p class="parrafo">2. Ejercer la dirección del Consejo Social y la planificación general de su actividad, así como garantizar el cumplimiento de las funciones del Consejo Social y asegurar la observancia de las leyes.</p>
+    <p class="parrafo">3. Acordar la convocatoria de las reuniones ordinarias y extraordinarias y fijar el orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros formuladas con la suficiente antelación.</p>
+    <p class="parrafo">4. Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas, pudiendo establecer el tiempo máximo de la discusión para cada cuestión, así como el que corresponda a cada intervención.</p>
+    <p class="parrafo">5. Nombrar y cesar al Secretario del Consejo Social, previa comunicación al Pleno, así como determinar su régimen de dedicación y retribución.</p>
+    <p class="parrafo">6. Ejercer voto de calidad en caso de empate en las votaciones.</p>
+    <p class="parrafo">7. Ordenar la ejecución de los acuerdos del Consejo Social.</p>
+    <p class="parrafo">8. Velar por el buen funcionamiento de los servicios del Consejo Social.</p>
+    <p class="parrafo">9. Interpretar el presente Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia y suplir las lagunas del mismo informando, en este último caso, al Pleno.</p>
+    <p class="parrafo">10. Visar las actas del Pleno y, en su caso, de las Comisiones Delegadas del Consejo Social.</p>
+    <p class="parrafo">11. Ejercer cuantas otras funciones y competencias sean inherentes a su condición de Presidente del órgano y aquellas que se le atribuyan expresamente por el Pleno, el presente Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia o los Estatutos de la Universidad, en este caso, previa aceptación.</p>
+    <p class="articulo">Artículo 16. Vicepresidentes.</p>
+    <p class="parrafo">1. El Pleno podrá nombrar hasta dos Vicepresidentes, de entre los Vocales que representen los intereses sociales, indicando el orden de prelación a efectos de sustitución en los supuestos de ausencia, vacante o enfermedad del Presidente.</p>
+    <p class="parrafo">2. Serán funciones del Vicepresidente sustituir al Presidente en los supuestos de vacante, ausencia, enfermedad u otro motivo legítimo, así como aquellas otras atribuciones que el Presidente expresamente le delegue de entre aquellas que sean susceptibles de delegación.</p>
+    <p class="parrafo">3. El Vicepresidente cesará en sus funciones por fallecimiento, incapacidad legal, dimisión, incompatibilidad, pérdida de la condición de miembro del Consejo Social, o por acuerdo del Pleno adoptado por una mayoría de dos tercios.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">De la Secretaría del Consejo Social</p>
+    <p class="articulo">Artículo 17. El Secretario del Consejo Social.</p>
+    <p class="parrafo">1. El Secretario del Consejo Social será nombrado y cesado libremente por el Presidente, previa comunicación al Pleno del Consejo Social, de entre personas de reconocida competencia en la gestión de entidades públicas o privadas.</p>
+    <p class="parrafo">2. El Secretario del Consejo Social desempeñará el cargo preferentemente en régimen de dedicación exclusiva y se le aplicarán las condiciones contractuales y retributivas pactadas con el Presidente, oído el Rector.</p>
+    <p class="parrafo">3. En caso de vacante, ausencia o enfermedad del Secretario, el Presidente podrá encomendar la Secretaría a una de las personas al servicio de la Universidad, que deberá adscribirse al Consejo Social.</p>
+    <p class="articulo">Artículo 18. Funciones del Secretario.</p>
+    <p class="parrafo">1. Auxiliar al Presidente en las tareas de organización y funcionamiento del Consejo Social y poner en conocimiento del Presidente los asuntos, informes, propuestas y documentos que se dirijan al Consejo Social.</p>
+    <p class="parrafo">2. Dirigir el funcionamiento de la Secretaría y de los servicios administrativos del Consejo Social y ejercer la dirección funcional sobre el personal administrativo adscrito a este órgano.</p>
+    <p class="parrafo">3. Gestionar la actividad diaria del Consejo Social e impulsar cuantas acciones fueran necesarias para el desarrollo de las iniciativas tomadas por el Pleno o por las Comisiones.</p>
+    <p class="parrafo">4. Convocar las sesiones del Consejo Social, por orden de su Presidente.</p>
+    <p class="parrafo">5. Ejercer la Secretaría del órgano colegiado, asistiendo con voz pero sin voto, a las sesiones del Pleno, de las Comisiones y de los grupos de trabajo.</p>
+    <p class="parrafo">6. Redactar y firmar las actas de las sesiones y encargarse de su guarda y custodia, certificar los acuerdos adoptados y notificarlos a los órganos o personas afectados.</p>
+    <p class="parrafo">7. Preparar los estudios e informes cuya realización haya sido decidida por el Consejo Social.</p>
+    <p class="parrafo">8. Mantener a disposición de los Vocales del Consejo Social, para su examen, cuantos documentos se refieran a los asuntos incluidos en el orden del día de la reunión correspondiente.</p>
+    <p class="parrafo">9. Elaborar el proyecto de presupuesto del Consejo Social.</p>
+    <p class="parrafo">10. Cualquier otra competencia que le sea delegada por el Rector o conferida en los Estatutos de la UNED.</p>
+    <p class="parrafo">11. Velar por la legalidad formal y material de las actuaciones del Consejo Social y garantizar que las reglas de constitución y adopción de acuerdos son respetadas.</p>
+    <p class="parrafo">12. Asistir y participar en las reuniones de los órganos de coordinación y demás iniciativas de los Consejos Sociales de las Universidades españolas.</p>
+    <p class="parrafo">13. Cuantos actos de gestión y coordinación le sean encomendados por el Presidente, el Pleno o las Comisiones.</p>
+    <p class="parrafo">14. Cualquier otra inherente a su condición de Secretario de órgano colegiado.</p>
+    <p class="parrafo">15. Percibir las indemnizaciones por asistencia a reuniones, que se pacten para el resto de los Consejeros.</p>
+    <p class="parrafo">16. En cuanto al régimen de compensaciones por razón del servicio, el Secretario pertenecerá al mismo grupo y tendrá los mismos derechos que los miembros del Consejo Social representantes de los intereses sociales.</p>
+    <p class="parrafo">17. En el caso de que el Secretario sea suplido por un Consejero, éste conservará todos sus derechos como tal.</p>
+    <p class="articulo">Artículo 19. Organización de la Secretaría.</p>
+    <p class="parrafo">1. La Secretaría del Consejo Social tendrá independencia organizativa y para ello dispondrá de los recursos humanos necesarios, bajo la dependencia funcional del Secretario.</p>
+    <p class="parrafo">2. El personal adscrito a la Secretaría del Consejo Social será Personal de Administración y Servicios de la Universidad y su régimen retributivo y de dedicación será el previsto en la relación de puestos de trabajo de la Universidad.</p>
+    <p class="titulo_num">TÍTULO TERCERO</p>
+    <p class="titulo_tit">Del funcionamiento del Consejo Social</p>
+    <p class="capitulo_num">CAPÍTULO I</p>
+    <p class="capitulo_tit">Disposiciones generales</p>
+    <p class="articulo">Artículo 20. Funcionamiento del Consejo Social.</p>
+    <p class="parrafo">El Consejo Social funcionará a través de reuniones plenarias, Comisiones Delegadas y grupos de trabajo que el Pleno acuerde constituir.</p>
+    <p class="articulo">Artículo 21. Tipos de reuniones.</p>
+    <p class="parrafo">1. Las reuniones del Pleno y Comisiones Delegadas del Consejo Social podrán ser ordinarias y extraordinarias. Corresponde al Presidente determinar en cada caso el carácter de la reunión.</p>
+    <p class="parrafo">2. Las sesiones extraordinarias se celebrarán por razones de urgencia o cuando la importancia del tema así lo aconseje. Se celebrarán cuando lo decida el Presidente o cuando lo solicite motivadamente el Rector o un tercio de los Consejeros. Recibida la solicitud, la sesión deberá celebrarse en un plazo máximo de 15 días hábiles a contar desde el siguiente a la recepción de la petición.</p>
+    <p class="parrafo">3. Las reuniones podrán transcurrir en varias sesiones que podrán tener lugar en diferentes días, consecutivos o no. Dicha circunstancia se hará constar razonadamente en la convocatoria, o se podrá acordar en la reunión correspondiente a propuesta de su Presidencia o de uno de sus miembros y siempre que no se oponga ninguno de los presentes.</p>
+    <p class="parrafo">4. Las reuniones podrán ser presenciales y virtuales. Son virtuales las reuniones a distancia que no precisan la presencia física de los miembros del órgano para celebrarse. En el caso de las reuniones virtuales se considerará que el lugar de su celebración es la sede física del Consejo Social.</p>
+    <p class="parrafo">5. Podrán celebrarse reuniones virtuales cuando los asuntos objeto de su orden del día no requieran para su acuerdo una mayoría cualificada.</p>
+    <p class="parrafo">6. Se precisará en la convocatoria bajo qué condiciones deberá celebrarse, con expresa indicación del medio a través del cual se establecerá la comunicación o conexión entre los Consejeros, que debe asegurar la identidad de éstos, el contenido de sus manifestaciones, el momento en que éstas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real. La Secretaría certificará en cada sesión, y así se hará constar en el acta, que concurren todas estas circunstancias. Se considerarán incluidos entre los medios electrónicos válidos para celebrar reuniones virtuales, el correo electrónico, las audioconferencias y las videoconferencias, sin perjuicio de otros.</p>
+    <p class="articulo">Artículo 22. Convocatorias.</p>
+    <p class="parrafo">1. Las convocatorias ordinarias deberán notificarse por escrito con una antelación de 15 días naturales poniendo a disposición de los Consejeros el orden del día y demás documentación necesaria, con una antelación mínima de cinco días hábiles.</p>
+    <p class="parrafo">2. La convocatoria de las sesiones extraordinarias corresponde al Presidente o persona en la que delegue en los términos recogidos en este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia y será notificada con una antelación mínima de setenta y dos horas.</p>
+    <p class="parrafo">3. Las convocatorias serán remitidas por el Secretario del Consejo Social, por orden del Presidente.</p>
+    <p class="parrafo">4. Las convocatorias serán publicadas en la plataforma del Consejo Social y notificadas a sus miembros a través de medios electrónicos, salvo que resulte imposible hacerlo de este modo. A tal efecto, se facilitará a los miembros que no dispongan de ella una cuenta de correo electrónico oficial de la Universidad Nacional de Educación</p>
+    <p class="articulo">Artículo 23. Orden del día.</p>
+    <p class="parrafo">1. El orden del día lo fijará el Presidente. No obstante, deberá incluir en el mismo aquellos asuntos de la competencia del Consejo Social, cuya inclusión lo soliciten por escrito el Rector o al menos cinco de los miembros, con una antelación suficiente para notificarlo en plazo.</p>
+    <p class="parrafo">2. Una vez convocada la sesión y notificado su orden del día, éste podrá ser modificado únicamente dentro de las 48 horas siguientes a su comunicación salvo que, estando presentes todos sus miembros, así lo acuerden por unanimidad.</p>
+    <p class="parrafo">3. Asimismo, la Presidencia, de oficio o a instancia de algún miembro, podrá retirar del orden del día de forma motivada alguno de sus puntos, siempre que no se haya deliberado y/o acordado, o suspender la celebración de la correspondiente sesión, conservándose en su caso los asuntos ya deliberados o los acuerdos ya adoptados.</p>
+    <p class="parrafo">4. El orden del día de las reuniones extraordinarias tendrá como punto único del orden del día el asunto que lo ha motivado. Junto al orden del día se remitirá por medios electrónicos la documentación necesaria para la deliberación de los diferentes puntos, al menos 72 horas antes de la celebración de la reunión, sin perjuicio de que se encuentre a su disposición en la plataforma del Consejo Social conforme se vaya disponiendo de ella. En todo caso, los miembros del Consejo podrán examinar en la Secretaría el expediente completo o la documentación que acompañe al asunto.</p>
+    <p class="articulo">Artículo 24. Deliberaciones.</p>
+    <p class="parrafo">1. Las deliberaciones de las sesiones no son públicas y los Consejeros deben guardar el debido sigilo y confidencialidad sobre los asuntos y los documentos que conozcan por razón de su condición de Vocales del Consejo Social.</p>
+    <p class="parrafo">2. El Presidente puede invitar o autorizar, por razones fundadas, la presencia en la sesión de personas ajenas al Consejo Social y, en su caso, la participación en la deliberación de los asuntos, en cuyas votaciones y acuerdos no podrán tomar parte. Estas comparecencias tendrán carácter meramente informativo y se limitarán al tema que justifique la invitación.</p>
+    <p class="parrafo">3. Corresponderá a la Presidencia someter el asunto a votación, si procede, cuando considere que ha sido suficientemente tratado.</p>
+    <p class="parrafo">4. Los Vocales podrán plantear en cualquier momento cuestiones de orden, sobre las que la Presidencia, asistida por la Secretaría, deberá pronunciarse de inmediato.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">El Pleno</p>
+    <p class="articulo">Artículo 25. Presidencia, funciones y competencias.</p>
+    <p class="parrafo">1. El Pleno es el máximo órgano de deliberación y decisión del Consejo Social.</p>
+    <p class="parrafo">2. Todos los miembros del Consejo Social tienen el derecho y el deber de asistir a las sesiones del Pleno.</p>
+    <p class="parrafo">3. Corresponde al Pleno el ejercicio de todas y cada una de las competencias, funciones y atribuciones que las leyes, el presente Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia y los Estatutos de la Universidad atribuyen al Consejo Social, así como adoptar todas las decisiones que correspondan al mismo. No obstante, el Pleno, con carácter temporal o permanente, podrá delegar atribuciones concretas en las Comisiones Delegadas.</p>
+    <p class="parrafo">4. El Pleno podrá revocar las delegaciones otorgadas en cualquier momento. Asimismo, el Pleno podrá avocar para sí el conocimiento directo de cualquier asunto, sin necesidad de ser sometido previamente a informe o propuesta de las Comisiones.</p>
+    <p class="parrafo">5. Las sesiones del Pleno serán dirigidas por el Presidente del Consejo Social. En caso de no haberse nombrado Vicepresidente y para los supuestos mencionados en el artículo 16.2 podrá delegar puntualmente la Presidencia en uno de los miembros nombrados en representación de los intereses sociales.</p>
+    <p class="parrafo">6. En defecto de delegación formal, las sesiones que el Pleno del Consejo celebre en ausencia del Presidente y/o Vicepresidente, serán presididas por el Consejero de mayor edad de entre los nombrados en representación de los intereses sociales</p>
+    <p class="parrafo">7. El Pleno del Consejo Social celebrará sesión ordinaria al menos una vez al trimestre.</p>
+    <p class="articulo">Artículo 26. Requisitos de constitución.</p>
+    <p class="parrafo">1. Para la válida constitución del Pleno a efectos de la celebración de sesiones, deliberaciones y adopción de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y el Secretario o, en su caso, de quienes les sustituyan, según lo previsto respectivamente en los artículos 10, 16, 17 y 18 de este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia, así como la de la mayoría de sus miembros.</p>
+    <p class="parrafo">2. Si no existiera quórum, el Pleno podrá constituirse en segunda convocatoria, media hora después de la señalada para la primera, siempre que haya mayoría de miembros representantes de intereses sociales y, en todo caso, el Presidente y el Secretario o quienes legalmente los sustituyan. En caso de no alcanzarse quórum en la segunda convocatoria, la reunión no podrá celebrarse y deberá convocarse nuevamente conforme a lo dispuesto en el artículo 22 de este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia.</p>
+    <p class="parrafo">3. A los efectos de establecer el quórum para la válida constitución del órgano, así como las mayorías para la adopción de acuerdos, se considerará presente quien haya ejercido la delegación conforme a lo dispuesto en este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia y se otorgará eficacia al voto que, en su caso, emita el miembro en quien se haya delegado.</p>
+    <p class="articulo">Artículo 27. Votaciones.</p>
+    <p class="parrafo">1. El voto podrá delegarse en otro miembro del Consejo Social en los términos recogidos en el artículo 10.2 de este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia.</p>
+    <p class="parrafo">2. Las votaciones presenciales podrán efectuarse mediante:</p>
+    <p class="parrafo_2">a. Mano alzada o llamamiento público, manifestando cada Consejero el sentido de su voto.</p>
+    <p class="parrafo">b. Asentimiento, entendiendo por tal la no manifestación expresa de discrepancias al acuerdo propuesto por ninguno de los miembros presentes.</p>
+    <p class="parrafo">c. Votación secreta mediante papeleta, cuando así lo pidan un tercio de los asistentes con derecho a voto o bien se trate de un asunto de carácter personal que afecte a cualquier miembro del Consejo Social.</p>
+    <p class="parrafo_2">3. Los presentes en la votación podrán hacer constar en acta su voto contrario al acuerdo adoptado y los motivos que los justifiquen, así como cualquier otra circunstancia que estimen pertinente.</p>
+    <p class="parrafo">4. Cuando se haya previsto la celebración a distancia de la sesión será posible la votación por cualquier medio que garantice la identidad de los votantes y el secreto de las votaciones, en su caso.</p>
+    <p class="articulo">Artículo 28. Adopción de acuerdos.</p>
+    <p class="parrafo">1. Los acuerdos del Pleno se adoptarán por mayoría de votos de los asistentes. Se entenderá que existe mayoría cuando el número de votos emitidos en favor de una propuesta sea superior al de votos en contra de la misma, o al de cualquier otra presentada en la misma votación, salvo que, en las leyes, este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia, o en los Estatutos de la Universidad, se requiera una mayoría diferente para la adopción del acuerdo en cuestión.</p>
+    <p class="parrafo">2. Cuando se haya previsto la celebración de la reunión en forma no presencial, los acuerdos se entenderán adoptados en la sede del Consejo Social.</p>
+    <p class="parrafo">3. No podrá ser objeto de acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros y sea declarada la urgencia del asunto por el voto favorable de la mayoría.</p>
+    <p class="parrafo">4. Se podrán adoptar acuerdos por vía telemática, sin necesidad de reunión, por razones de urgencia siempre que:</p>
+    <p class="parrafo_2">a. La urgencia esté justificada por la unidad correspondiente y se acepte por unanimidad.</p>
+    <p class="parrafo">b. El sentido del voto sea manifestado expresamente en un plazo no superior a 48 horas.</p>
+    <p class="parrafo_2">Los acuerdos así adoptados deberán ser ratificados en el siguiente Pleno o Comisión Delegada que se celebre.</p>
+    <p class="parrafo">5. Los acuerdos, válidamente adoptados, serán inmediatamente ejecutivos. Los miembros que voten en contra o se abstengan quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos adoptados.</p>
+    <p class="parrafo">6. Dirimirá los empates el voto del Presidente.</p>
+    <p class="parrafo">7. Compete al rector ejecutar los acuerdos del Consejo Social, dar cuenta de su efectivo cumplimiento y ordenar su publicación en el «Boletín Oficial de Estado» en el caso de aquellos acuerdos cuya publicación resulte necesaria en aplicación de las normas que regulen la publicidad de los actos de las Universidades públicas. A tal fin, la Secretaría del Consejo remitirá inmediatamente al Rectorado la relación de los acuerdos aprobados por el Pleno o por las Comisiones Delegadas.</p>
+    <p class="parrafo">8. La Secretaría deberá trasladar los acuerdos del Consejo Social a cuantos órganos, servicios y dependencias de la Universidad guarden relación competencial con los asuntos aprobados.</p>
+    <p class="parrafo">9. Asimismo, los acuerdos del Consejo Social serán publicados en su web y en la de la Universidad y en cualquier otro medio o forma que asegure su difusión, en los términos previstos en particular por las normas reguladoras de la transparencia de las Universidades públicas.</p>
+    <p class="articulo">Artículo 29. Actas y certificaciones.</p>
+    <p class="parrafo">1. De cada sesión que se celebre, se levantará acta sucinta por el Secretario del Consejo Social, que contendrá, como mínimo, las circunstancias de lugar y tiempo en que se ha celebrado, la identificación de las personas que hayan asistido, los puntos principales de las deliberaciones, la forma y resultado de la votación y el contenido de los acuerdos.</p>
+    <p class="parrafo">2. Las actas del Consejo Social se numerarán correlativamente sin distinción entre las sesiones ordinarias y extraordinarias.</p>
+    <p class="parrafo">3. La propuesta de acta elaborada por el Secretario se remitirá por medios electrónicos a los miembros del Consejo Social quienes, en un plazo no superior a 48 horas, podrán manifestar, por los mismos medios, su conformidad o reparos al texto.</p>
+    <p class="parrafo">4. Si no hay observaciones la propuesta de acta se entenderá aprobada en la misma reunión.</p>
+    <p class="parrafo">5. En el acta figurará, a solicitud de los respectivos miembros del órgano, el voto contrario al acuerdo adoptado, su abstención y los motivos que la justifiquen o el sentido de su voto favorable. Asimismo, cualquier miembro tiene derecho a solicitar la transcripción íntegra de su intervención o propuesta, siempre que aporte en el acto, o en un plazo de 48 horas, el texto que se corresponda fielmente con su intervención, haciéndose constar así en el acta o uniéndose copia a la misma.</p>
+    <p class="parrafo">6. Los miembros que discrepen del acuerdo mayoritario podrán formular voto particular por escrito en el plazo de 48 horas, que se incorporará al texto aprobado del acta.</p>
+    <p class="parrafo">7. Cuando se haya solicitado la grabación de la sesión y se haya optado por no incluir las deliberaciones en el acta, las grabaciones deberán conservarse de forma que se garantice la integridad y autenticidad de los ficheros electrónicos correspondientes y el acceso a los mismos por parte de los miembros del Consejo Social.</p>
+    <p class="parrafo">8. El Secretario emitirá certificaciones sobre los acuerdos adoptados a toda persona que tenga un interés legítimo en el asunto. La certificación podrá ser expedida por medios electrónicos salvo que el interesado manifieste expresamente lo contrario y no tenga obligación de relacionarse con las Administraciones por esta vía.</p>
+    <p class="parrafo">9. Los originales de las actas y la documentación de los acuerdos se custodiarán por el Secretario en la sede del Consejo Social. Las grabaciones que se hubieran solicitado y los documentos proporcionados en soporte electrónico, deberán conservarse de forma que se garantice la integridad y autenticidad de los ficheros electrónicos correspondientes y el acceso a los mismos por parte de los miembros del Consejo Social.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">De las Comisiones</p>
+    <p class="articulo">Artículo 30. Comisiones.</p>
+    <p class="parrafo">1. El Consejo Social constituirá en su seno, al menos dos Comisiones con competencia para adoptar acuerdos en las materias que les hayan sido expresamente delegadas por el Pleno: La Comisión de Gestión Interna y la Comisión de Estrategia y Relaciones con la Sociedad.</p>
+    <p class="parrafo">2. Además de su carácter informativo y de preparación, con carácter previo a la celebración del Pleno, de los asuntos de su competencia, posibilitarán la rápida adopción de aquellos acuerdos que, siendo inherentes a las funciones legales del órgano, no puedan ser aplazadas hasta que el Pleno se reúna.</p>
+    <p class="parrafo">3. Las Comisiones celebrarán sesión a convocatoria del Secretario del Consejo Social por orden del Presidente, o cuando lo soliciten al menos un tercio de los componentes de la misma.</p>
+    <p class="articulo">Artículo 31. Composición de las Comisiones.</p>
+    <p class="parrafo">1. Las Comisiones Delegadas se compondrán de un mínimo de 5 miembros, designados en sesión plenaria, en los que haya mayoría de representantes de intereses sociales. Podrán designarse suplentes conservando la misma representatividad.</p>
+    <p class="parrafo">2. El resto de los miembros del Consejo Social, aunque no sean titulares ni suplentes de la Comisión Delegada respectiva pueden asistir libremente, con voz y voto, así como cualquier experto o técnico en relación con los puntos a tratar en el orden del día, sin derecho a voto, que haya sido previamente invitado por el Presidente de la Comisión.</p>
+    <p class="parrafo">3. La Presidencia de las Comisiones Delegadas corresponderá al Presidente del Consejo Social, quien podrá delegar la misma en el Vicepresidente o en un Vocal de la representación social que podrá ser suplido por otro de los miembros que tenga la misma representatividad.</p>
+    <p class="parrafo">4. Actuará como Secretario de la reunión, el Secretario del Consejo Social o persona en quien delegue.</p>
+    <p class="articulo">Artículo 32. Requisitos para su constitución.</p>
+    <p class="parrafo">Las Comisiones quedarán válidamente constituidas siempre que, además del Presidente y Secretario, o suplentes respectivos, concurran a la sesión la mayoría de sus miembros siempre que se respete la proporción entre representantes de los intereses sociales y de la comunidad académica que refleja la propia composición del Consejo Social.</p>
+    <p class="articulo">Artículo 33. Sesiones y convocatorias.</p>
+    <p class="parrafo">1. Las Comisiones se reunirán cuantas veces lo requiera el cumplimiento de sus funciones delegadas, a convocatoria del Secretario del Consejo Social por orden del Presidente de la Comisión, o cuando lo soliciten al menos un tercio de los miembros titulares.</p>
+    <p class="parrafo">2. Si la documentación que debe acompañar a la propuesta correspondiente no se hiciera llegar en plazo a la Secretaría del Consejo Social desde el órgano competente –con el fin de que aquélla la ponga a disposición de los Consejeros–, el punto del orden del día al que se refiere podrá ser retirado de la convocatoria.</p>
+    <p class="parrafo">3. La convocatoria de las sesiones ordinarias se efectuará con una antelación mínima de 5 días hábiles y, en la de las sesiones extraordinarias, con una antelación mínima de setenta y dos horas.</p>
+    <p class="parrafo">4. El resto de los requisitos referentes a la celebración de sesiones, adopción de acuerdos y elaboración de actas será idéntico al descrito para las sesiones plenarias en el capítulo II.</p>
+    <p class="articulo">Artículo 34. Otras Comisiones, subcomisiones y grupos de trabajo.</p>
+    <p class="parrafo">1. El Pleno del Consejo Social podrá crear otras Comisiones, permanentes o temporales, así como subcomisiones o grupos de trabajo sobre asuntos concretos. que prepararán cuantos informes, estudios y documentación les sean requeridos por el Pleno para facilitar sus deliberaciones y acuerdos.</p>
+    <p class="parrafo">2. Las Comisiones temporales y los grupos de trabajo tendrán vigencia durante el periodo de tiempo que sea necesario para la resolución del asunto que se le hubiera encomendado en el acuerdo de creación de las mismas.</p>
+    <p class="parrafo">3. Sus reuniones serán dirigidas por el Consejero designado al efecto y podrán participar miembros externos ajenos al Consejo Social y a la propia Universidad.</p>
+    <p class="capitulo_num">CAPÍTULO IV</p>
+    <p class="capitulo_tit">Normas específicas</p>
+    <p class="articulo">Artículo 35. Aprobación del presupuesto, programación plurianual y planes de inversiones.</p>
+    <p class="parrafo">1. Una vez aprobados por el Consejo de Gobierno, el proyecto de presupuesto, programación plurianual y planes de inversiones, serán remitidos a la Secretaría del Consejo Social con la antelación suficiente para que los documentos puedan ser analizados e informados por la comisión correspondiente antes de someterlo al Pleno para su aprobación.</p>
+    <p class="parrafo">2. El proyecto de presupuesto contendrá los extremos exigidos en el artículo 81 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades y en los artículos correspondientes del título VIII, capítulo II, de los Estatutos de la UNED.</p>
+    <p class="parrafo">3. Al estado de gastos corrientes del presupuesto, se acompañará la relación de puestos de trabajo de todo el personal de la Universidad, especificando la totalidad de sus costes, así como un anexo en el que figuren los puestos de nuevo ingreso que se propongan.</p>
+    <p class="parrafo">4. El Consejo Social podrá recabar de los órganos competentes de la Universidad información sobre el estado de elaboración de los proyectos de presupuesto programación plurianual y planes de inversiones y podrá presentar, en su caso, observaciones o sugerencias a los mismos.</p>
+    <p class="parrafo">5. La adopción del acuerdo de aprobación del presupuesto de la Universidad precisará mayoría absoluta del total de componentes del Consejo Social.</p>
+    <p class="parrafo">6. La no aprobación del proyecto de presupuesto implicará su devolución al Consejo de Gobierno de la Universidad y a ella deberá acompañarse un texto suficientemente razonado y detallado, comprensivo de los motivos determinantes de la no aprobación.</p>
+    <p class="parrafo">7. Si los presupuestos de la Universidad no resultaran aprobados el primer día del ejercicio económico correspondiente, se entenderá automáticamente prorrogado el presupuesto del ejercicio anterior.</p>
+    <p class="articulo">Artículo 36. Seguimiento de la ejecución presupuestaria.</p>
+    <p class="parrafo">1. Con periodicidad trimestral, la Gerencia de la Universidad remitirá al Consejo Social información sobre el grado de ejecución del presupuesto, indicando las incidencias más relevantes que se hayan producido en el periodo considerado, haciendo especial referencia, cuando corresponda, al desarrollo del plan de inversiones.</p>
+    <p class="parrafo">2. La información a que hace referencia el apartado anterior se remitirá a la Secretaría del Consejo Social, que la hará llegar a los miembros del Consejo.</p>
+    <p class="articulo">Artículo 37. Aprobación de las cuentas anuales.</p>
+    <p class="parrafo">1. Corresponde al Consejo Social aprobar, con carácter previo al trámite de rendición de cuentas a que se refieren los artículos 81 y 84 de la Ley Orgánica 6/2001, de Universidades, las cuentas anuales de la Universidad y las de las entidades que de ella puedan depender, sin perjuicio de la legislación mercantil u otra a la que dichas entidades puedan estar sometidas en función de su personalidad jurídica.</p>
+    <p class="parrafo">2. Se entiende que dependen de la Universidad las entidades en las que concurren las circunstancias establecidas en el artículo 84, párrafo tercero, de la Ley Orgánica de Universidades. No obstante, el Consejo de Gobierno informará al Consejo Social, a través del rector, de los resultados económicos de la participación de la Universidad en entidades en las que no exista participación mayoritaria.</p>
+    <p class="parrafo">3. La auditoría de las cuentas de la Universidad será realizada por la Intervención General de la Administración del Estado sin perjuicio de que el Pleno pueda solicitar una auditoria externa previa, una vez formuladas las cuentas.</p>
+    <p class="parrafo">4. El Consejo Social velará por el cumplimiento de las obligaciones de la Universidad en materia de rendición de cuentas y racionalización del gasto público en los términos y plazos establecidos en el número 5 del artículo 81 de la Ley Orgánica de Universidades.</p>
+    <p class="parrafo">5. En caso de liquidación del presupuesto con remanente de tesorería negativo, el Consejo Social procederá, en la primera sesión que celebre con posterioridad a la misma, a la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido. La expresada reducción solo podrá revocarse por acuerdo del Consejo Social, en los términos previstos en la Ley Orgánica de Universidades.</p>
+    <p class="articulo">Artículo 38. Creación y participación en empresas, fundaciones u otras personas jurídicas.</p>
+    <p class="parrafo">1. Corresponde al Consejo Social aprobar la creación, participación, o aportaciones al capital social o fondo patrimonial de empresas, fundaciones u otras personas jurídicas por parte de la Universidad Nacional de Educación a Distancia.</p>
+    <p class="parrafo">2. Las propuestas de creación o participación en la creación de las citadas entidades con personalidad jurídica diferente de la propia Universidad deberán incluir, al menos:</p>
+    <p class="parrafo_2">a. Denominación social de la persona jurídica.</p>
+    <p class="parrafo">b. Descripción detallada del proyecto empresarial o fundacional.</p>
+    <p class="parrafo">c. Descripción de la participación de la Universidad en el proyecto, con especificación de la aportación económica al mismo, en su caso.</p>
+    <p class="parrafo">d. Relación de miembros del equipo promotor y su vinculación a la Universidad, en su caso.</p>
+    <p class="parrafo">e. Descripción del tipo de relación que la empresa, fundación o persona jurídica mantiene o se propone mantener con la Universidad.</p>
+    <p class="parrafo_2">3. El acuerdo será aprobado por el Pleno.</p>
+    <p class="articulo">Artículo 39. Creación, supresión, modificación o adscripción de centros.</p>
+    <p class="parrafo">1. Corresponde al Consejo Social informar favorablemente y con carácter previo a su aprobación por el Consejo de Gobierno, las propuestas de creación, modificación y supresión de Facultades, Escuelas, Escuelas de Doctorado o Institutos universitarios de investigación, así como las propuestas de adscripción a la Universidad de éstos u otros centros de Educación Superior, con excepción de los centros asociados propios.</p>
+    <p class="parrafo">2. Las propuestas de creación o adscripción de nuevos centros deberán incluir, al menos:</p>
+    <p class="parrafo_2">a. Identificación del centro.</p>
+    <p class="parrafo">b. Memoria económica, que incluirá las previsiones de inversión, personal docente e investigador y personal de Administración y Servicios que resulte necesario para su puesta en funcionamiento y su desarrollo posterior.</p>
+    <p class="parrafo">c. Previsión de alumnado.</p>
+    <p class="parrafo">d. Titulaciones que se impartirán en el centro.</p>
+    <p class="parrafo">e. Las medidas de racionalización de la estructura que resulten necesarias, en su caso.</p>
+    <p class="parrafo_2">3. En el caso de proponerse la supresión de centros, se deberá incluir la justificación de la necesidad o conveniencia de esta medida y el destino que se dará a los medios adscritos al mismo.</p>
+    <p class="articulo">Artículo 40. Centros situados en el extranjero.</p>
+    <p class="parrafo">1. El Consejo Social podrá proponer, previo informe del Consejo de Gobierno de la Universidad, la creación o supresión de centros situados en el extranjero, dependientes de la Universidad, que impartan enseñanzas conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional, de acuerdo con lo previsto en el artículo 85 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades.</p>
+    <p class="parrafo">2. Las propuestas de creación o supresión de los centros en el extranjero deberán cumplir los mismos requisitos que las de los centros situados en el territorio nacional, con las especificidades que se deriven de la ubicación geográfica en la que vayan a establecerse.</p>
+    <p class="articulo">Artículo 41. Implantación y supresión de enseñanzas oficiales.</p>
+    <p class="parrafo">1. Las propuestas de implantación o supresión de enseñanzas conducentes a la obtención de títulos universitarios, de carácter oficial y validez en todo el territorio nacional, que pretendan elevarse al Gobierno para su aprobación, deberán ser informadas favorablemente por el Consejo Social, con carácter previo a su aprobación por el Consejo de Gobierno de la Universidad.</p>
+    <p class="parrafo">2. Las propuestas de implantación de nuevas titulaciones deberán incluir, al menos:</p>
+    <p class="parrafo_2">a. Identificación de la titulación.</p>
+    <p class="parrafo">b. Memoria económica, que incluirá las previsiones de personal necesario para su impartición.</p>
+    <p class="parrafo">c. Previsión de alumnado.</p>
+    <p class="parrafo">d. Titulación o titulaciones que se sustituyen, en su caso.</p>
+    <p class="parrafo_2">3. En el caso de proponerse la supresión de titulaciones impartidas, se deberá incluir la justificación de la necesidad o conveniencia de esta medida, basada en razones académicas, sociales o económicas.</p>
+    <p class="articulo">Artículo 42. Normas de progreso y permanencia de los estudiantes.</p>
+    <p class="parrafo">1. El Consejo Social, oídos los distintos sectores de la comunidad universitaria y de la sociedad implicados, aprobará un Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia, a propuesta del Consejo de Gobierno, para regular el progreso y la permanencia de los estudiantes en la Universidad, de acuerdo con las características de los respectivos estudios.</p>
+    <p class="parrafo">2. La normativa de permanencia será aprobada por el Pleno.</p>
+    <p class="articulo">Artículo 43. Precios de las enseñanzas universitarias.</p>
+    <p class="parrafo">Corresponde al Consejo Social, a propuesta del Consejo de Gobierno, establecer los precios de las enseñanzas propias, cursos de especialización y los de todas aquellas actividades que realice la Universidad, con la excepción de los de estudios conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, que deberán ser aprobados junto con los presupuestos anuales en los que se deban aplicar.</p>
+    <p class="articulo">Artículo 44. Nombramiento y cese del Gerente.</p>
+    <p class="parrafo">1. Corresponde al Pleno del Consejo Social acordar con el Rector, a propuesta de éste y mediante el procedimiento que se establezca en los Estatutos de la Universidad, el nombramiento del Gerente de la Universidad e informar sobre su cese.</p>
+    <p class="parrafo">2. La propuesta de nombramiento, acompañada del currículum vítae del candidato será remitida por el Rector a la Secretaría del Consejo Social, para su inclusión en el orden del día del Pleno en el que se someterá a aprobación.</p>
+    <p class="articulo">Artículo 45. Designación de representantes del Consejo Social en otros órganos.</p>
+    <p class="parrafo">1. Los miembros del Consejo Social que vayan a formar parte del Consejo de Gobierno de la Universidad o de otros órganos en los que el Consejo Social deba tener representación, serán designados por el Pleno, a propuesta del Presidente, entre los representantes de los intereses sociales.</p>
+    <p class="parrafo">2. El Pleno podrá aprobar normas específicas para regular estos nombramientos.</p>
+    <p class="articulo">Artículo 46. Aprobación del Presupuesto del Consejo Social.</p>
+    <p class="parrafo">1. El Consejo Social aprobará su propio presupuesto, que figurará en un programa específico dentro de los presupuestos de la Universidad.</p>
+    <p class="parrafo">2. El presupuesto del Consejo Social se regirá por la misma estructura económica aplicable a los presupuestos de la Universidad.</p>
+    <p class="parrafo">3. La elaboración del proyecto de presupuesto del Consejo Social corresponderá al Secretario, conforme a las directrices del Presidente, y será aprobado por el Pleno.</p>
+    <p class="parrafo">4. El proyecto de presupuesto preverá las necesidades de personal y medios materiales que demande el correcto funcionamiento de sus servicios.</p>
+    <p class="articulo">Artículo 47. Plan anual de actuaciones del Consejo Social.</p>
+    <p class="parrafo">1. El Consejo Social aprobará en su última reunión de cada año el plan anual de actuaciones del año siguiente.</p>
+    <p class="parrafo">2. El plan anual de actuaciones será elaborado por el Secretario, conforme a las directrices del Presidente, y será aprobado por el Pleno.</p>
+    <p class="titulo_num">TÍTULO CUARTO</p>
+    <p class="titulo_tit">De la reforma del Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia</p>
+    <p class="articulo">Artículo 48. Iniciativa para la reforma.</p>
+    <p class="parrafo">1. El Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia podrá ser modificado total o parcialmente a iniciativa del Presidente o de, al menos, cinco Consejeros.</p>
+    <p class="parrafo">2. La propuesta de reforma deberá ir acompañada de un texto articulado alternativo y de las razones que la justifiquen.</p>
+    <p class="articulo">Artículo 49. Aprobación de la propuesta de reforma.</p>
+    <p class="parrafo">La aprobación de la propuesta de reforma requerirá el voto favorable de la mayoría absoluta del total de los miembros del Consejo Social.</p>
+    <p class="articulo">Disposición adicional.</p>
+    <p class="parrafo">Las referencias en este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia a cargos y personas se entenderán efectuados sin distinción de género y podrán utilizarse indistintamente en género masculino o femenino, según corresponda a la persona que los desempeñe.</p>
+    <p class="articulo">Disposición derogatoria.</p>
+    <p class="parrafo">A partir de la entrada en vigor de este Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia, queda derogado el Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia aprobado por Orden de 4 de diciembre de 1986.</p>
+    <p class="articulo">Disposición final.</p>
+    <p class="parrafo">El presente Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad Nacional de Educación a Distancia entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».</p>
+  </texto>
+</documento>

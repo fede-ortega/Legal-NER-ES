@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20190620165601">
+  <metadatos>
+    <identificador>BOE-A-2017-2308</identificador>
+    <titulo>Resolución de 3 de marzo de 2017, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del Área del Monopolio.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>54</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9279">Ministerio de Hacienda y Función Pública</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20170303</fecha_disposicion>
+    <fecha_publicacion>20170304</fecha_publicacion>
+    <fecha_vigencia>20170304</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>15607</pagina_inicial>
+    <pagina_final>15609</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2017-2308</url_epub>
+    <url_pdf>/boe/dias/2017/03/04/pdfs/BOE-A-2017-2308.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2017/03/03/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2017/03/03/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2017-2308</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-03</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2017-2308</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-03</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrected_by rdf:resource="https://www.boe.es/eli/es/res/2017/03/03/(1)/corrigendum/20170307/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2017/03/03/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 3 de marzo de 2017, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del Área del Monopolio.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-04</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2017/03/03/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3511" orden="">Expendedurías de Tabaco y Efectos Timbrados</materia>
+      <materia codigo="5665" orden="">Precios</materia>
+      <materia codigo="6819" orden="">Tabaco</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1998-10407" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 4 de la Ley 13/1998, de 4 de mayo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2017-2418" orden="">
+          <palabra codigo="202">CORRECCION de erratas</palabra>
+          <texto>en BOE num. 56 de 7 de marzo de 2017</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En virtud de lo establecido en el artículo 4 de la Ley 13/1998, de Ordenación del Mercado de tabacos, se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio, que han sido propuestos por los correspondientes fabricantes e importadores.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Primero.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los precios de venta al público de las labores de tabaco que se indican a continuación, incluidos los diferentes tributos, en Expendedurías de Tabaco y Timbre de la Península e Illes Balears, serán los siguientes:</p>
+    <table xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ning_n_estilo_de_tabla">
+      <colgroup>
+        <col class="row_column_1"/>
+        <col class="row_column_2"/>
+      </colgroup>
+      <thead>
+        <tr class="row_column_3">
+          <td>
+							
+						</td>
+          <td>
+            <p class="cabeza_tabla">Precio total</p>
+            <p class="cabeza_tabla">de venta</p>
+            <p class="cabeza_tabla">al público</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros/cajetilla</p>
+          </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row_column_4">
+          <td>
+            <p class="cuerpo_tabla_centro">A) <em>Cigarrillos</em></p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Floyd Blue	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4,65</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Floyd Silver	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4,65</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Herencia Palmera	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4,10</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ning_n_estilo_de_tabla">
+      <colgroup>
+        <col class="row_column_1"/>
+        <col class="row_column_2"/>
+      </colgroup>
+      <thead>
+        <tr class="row_column_3">
+          <td>
+							
+						</td>
+          <td>
+            <p class="cabeza_tabla">Precio total</p>
+            <p class="cabeza_tabla">de venta</p>
+            <p class="cabeza_tabla">al público</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros/unidad</p>
+          </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row_column_4">
+          <td>
+            <p class="cuerpo_tabla_centro">B) <em>Cigarros y cigarritos</em></p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_6">
+          <td>
+            <p class="cuerpo_tabla_izq"> Aliados:</p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Gran Robusto (10)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,90</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Gran Robusto (20)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,90</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Perfectos (10)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4,90</p>
+          </td>
+        </tr>
+        <tr class="row_column_4">
+          <td>
+            <p class="cuerpo_tabla_izq"> La Regenta:</p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Pirámide Maduro Bodega Privada (25)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4,50</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Short Robusto Maduro Bodega Privada (25)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">4,25</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ning_n_estilo_de_tabla">
+      <colgroup>
+        <col class="row_column_1"/>
+        <col class="row_column_2"/>
+      </colgroup>
+      <thead>
+        <tr class="row_column_3">
+          <td>
+							
+						</td>
+          <td>
+            <p class="cabeza_tabla">Precio total</p>
+            <p class="cabeza_tabla">de venta</p>
+            <p class="cabeza_tabla">al público</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros/envase</p>
+          </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row_column_4">
+          <td>
+            <p class="cuerpo_tabla_centro">C) Cigarros y cigarritos</p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_4">
+          <td>
+            <p class="cuerpo_tabla_izq"> Pall Mall:</p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Red Capa Natural (el envase de 10)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1,30</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ning_n_estilo_de_tabla">
+      <colgroup>
+        <col class="row_column_1"/>
+        <col class="row_column_2"/>
+      </colgroup>
+      <thead>
+        <tr class="row_column_3">
+          <td>
+							
+						</td>
+          <td>
+            <p class="cabeza_tabla">Precio total</p>
+            <p class="cabeza_tabla">de venta</p>
+            <p class="cabeza_tabla">al público</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros/unidad</p>
+          </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row_column_7">
+          <td>
+            <p class="cuerpo_tabla_centro">D) Picaduras de liar</p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Excite Red American Blend (15 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_der">2,50</p>
+          </td>
+        </tr>
+        <tr class="row_column_6">
+          <td>
+            <p class="cuerpo_tabla_izq">Lucky Strike Volumen (53 g) + Tubos	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_der">9,00</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ning_n_estilo_de_tabla">
+      <colgroup>
+        <col class="row_column_1"/>
+        <col class="row_column_2"/>
+      </colgroup>
+      <tbody>
+        <tr class="row_column_7">
+          <td>
+            <p class="cuerpo_tabla_centro">E) Picadura de pipa</p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_6">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days 7’ Night Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Bana Bandana Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Black APP Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Blizzard APP Juice Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Blizzard Cher Juice Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Blizzard Lim Juice Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Blizzard Melow Juice Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Blush Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cher Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cold Citro Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cold Cola Citro Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cold Cola Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cold Grapper Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cold Gree Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cold Sun Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Cold Sweet Johabear Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Five O’clock Smoking Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Florida Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Green Slip Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Kamikaze Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Love 99 Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Paradise Smoke Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Party Smoke Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Passion on ice Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Power Smoke Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Smoke Like a Boss Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Sour Bomb Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Sweet Wine Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Vani Cream Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">7 Days Wild Red Picadura de Shisha (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,75</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Barsdorf’s Bester Aromatic Mixture (100 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">7,00</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Barsdorf’s Bester Bright Virginia (100 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">7,00</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Black Vanilla Original Danish Mixture (40 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,60</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Holger Danske Black and Bourbon Aromatic (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,90</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Holger Danske Magic Vanilla (40 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,60</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Holger Danske Mango and Vanilla Aromatic (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,90</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Holger Danske Original Traditional (40 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,60</p>
+          </td>
+        </tr>
+        <tr class="row_column_6">
+          <td>
+            <p class="cuerpo_tabla_izq">Holger Danske Vanilla and Orange (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">3,90</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Segundo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los precios de venta al público de las labores de tabaco que se indican a continuación, incluidos los diferentes tributos, en Expendedurías de Tabaco y Timbre de Ceuta y Melilla serán los siguientes:</p>
+    <table xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ning_n_estilo_de_tabla">
+      <colgroup>
+        <col class="row_column_1"/>
+        <col class="row_column_2"/>
+      </colgroup>
+      <thead>
+        <tr class="row_column_3">
+          <td>
+							
+						</td>
+          <td>
+            <p class="cabeza_tabla">Precio total</p>
+            <p class="cabeza_tabla">de venta</p>
+            <p class="cabeza_tabla">al público</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros/unidad</p>
+          </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row_column_4">
+          <td>
+            <p class="cuerpo_tabla_centro">A) Picaduras de pipa</p>
+          </td>
+          <td>
+							
+						</td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Nakhla Licorice (250 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">7,50</p>
+          </td>
+        </tr>
+        <tr class="row_column_5">
+          <td>
+            <p class="cuerpo_tabla_izq">Nakhla Licorice (50 g)	</p>
+          </td>
+          <td>
+            <p class="cuerpo_tabla_centro">1,60</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Tercero.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">La presente Resolución entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Madrid, 3 de marzo de 2017.–La Presidenta del Comisionado para el Mercado de Tabacos, Isabel Eugenia Juliani Fernández de Córdoba.</p>
+  </texto>
+</documento>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20190617192601">
+  <metadatos>
+    <identificador>BOE-A-2019-2583</identificador>
+    <titulo>Resolución de 19 de febrero de 2019, de la Mutualidad General de Funcionarios Civiles del Estado, por la que se modifican los Anexos II, III y IV de la Orden APU/2245/2005, de 30 de junio, por la que se regulan las prestaciones complementarias de la asistencia sanitaria en MUFACE y se establece el procedimiento de financiación de bombas portátiles de infusión subcutánea continua de insulina.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>48</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="9561">Ministerio de Política Territorial y Función Pública</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20190219</fecha_disposicion>
+    <fecha_publicacion>20190225</fecha_publicacion>
+    <fecha_vigencia>20190301</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>17703</pagina_inicial>
+    <pagina_final>17709</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2019-2583</url_epub>
+    <url_pdf>/boe/dias/2019/02/25/pdfs/BOE-A-2019-2583.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2019/02/19/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2019/02/19/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2019-2583</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-02-19</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2019-2583</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-02-19</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2019/02/19/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 19 de febrero de 2019, de la Mutualidad General de Funcionarios Civiles del Estado, por la que se modifican los Anexos II, III y IV de la Orden APU/2245/2005, de 30 de junio, por la que se regulan las prestaciones complementarias de la asistencia sanitaria en MUFACE y se establece el procedimiento de financiación de bombas portátiles de infusión subcutánea continua de insulina.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-02-25</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2019/02/19/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="327" orden="">Asistencia sanitaria</materia>
+      <materia codigo="420" orden="">Ayudas</materia>
+      <materia codigo="3857" orden="">Funcionarios públicos</materia>
+      <materia codigo="4895" orden="">Material sanitario</materia>
+      <materia codigo="5117" orden="">Mutualidad General de Funcionarios Civiles del Estado</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="116" orden="">Función Pública</alerta>
+      <alerta codigo="124" orden="">Sanidad</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2005-12099" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los anexos II, III y IV de la Orden APU/2245/2005, de 30 de junio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Orden APU/2245/2005, de 30 de junio, por la que se regulan las prestaciones complementarias de la asistencia sanitaria en MUFACE y se establece el procedimiento de financiación de bombas portátiles de infusión subcutánea continua de insulina, dispone en su dispositivo quinto que las prestaciones complementarias denominadas «otras prestaciones sanitarias» serán las que se relacionen en cada momento en los anexos II, III y IV, que darán lugar a las ayudas económicas por los importes y con las condiciones establecidas en éstos.</p>
+    <p class="parrafo">Por su parte, el dispositivo undécimo establece que la actualización, modificación y supresión, en su caso, de los anexos I a IV se efectuará por Resolución de la Dirección General de MUFACE. En uso de dicha atribución, por Resolución de 8 de mayo de 2007 y Resolución de 26 de junio de 2014, respectivamente, fueron actualizados y modificados los anexos II, III y IV.</p>
+    <p class="parrafo">La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común establece en su artículo 14 la obligación para los empleados públicos de relacionarse electrónicamente con las Administraciones Públicas. Así, dispone que «En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, (…) e) Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público, en la forma en que se determine reglamentariamente por cada Administración.» En este sentido, la relación que vincula a la Mutualidad de Funcionarios Civiles del Estado con el personal funcionario adscrito, impone la adaptación de la presentación de las solicitudes de las prestaciones dentarias y oculares a lo establecido en la Ley.</p>
+    <p class="parrafo">Asimismo, la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, establece en su artículo 28.3 como principio general que las administraciones no exigirán documentos originales en los procedimientos administrativos, lo que obliga a adecuar las condiciones de tramitación de las prestaciones cuyos anexos reguladores se actualizan en esta resolución, con el fin de hacer efectivo el derecho de los interesados que consagra el artículo 53.1.c) de la misma Ley.</p>
+    <p class="parrafo">Por otra parte, la experiencia desarrollada en este tipo de prestaciones muestra que hay que establecer condiciones que sean claras y comprensibles para sus destinatarios, los mutualistas. Así, los principios de simplicidad y claridad, que vinculan a las administraciones públicas según lo previsto en el artículo 3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico de las Administraciones Públicas, inspiran la adecuación de aspectos tales como los requerimientos de facturas y la garantía de los audífonos.</p>
+    <p class="parrafo">Todos los motivos expresados determinan la necesidad de adecuar las condiciones de tramitación de las prestaciones establecidas en los anexos II, III y IV de la Orden APU/2245/2005, de 30 de junio, modificados sucesivamente por la Resolución de 8 de mayo de 2007 y la Resolución de 26 de junio de 2014.</p>
+    <p class="parrafo_2">Por lo expuesto, en el ejercicio de las competencias atribuidas en el dispositivo undécimo de la citada Orden y en el artículo 11 del Real Decreto 577/1997, de 18 de abril, de estructura de los órganos de gobierno, administración y representación de la Mutualidad General de Funcionarios Civiles del Estado, habiendo informado el Consejo General en los términos estipulados en el artículo 3 del mismo Real Decreto, el Director General de la Mutualidad resuelve:</p>
+    <p class="articulo">Primero.</p>
+    <p class="parrafo">De conformidad con lo previsto en el dispositivo undécimo de la Orden APU/2245/2005, de 30 de junio, modificar los Anexos II, III y IV, actualizando las condiciones de tramitación de las solicitudes de prestaciones dentarias y oculares, así como determinados aspectos de otras prestaciones.</p>
+    <p class="articulo">Segundo.</p>
+    <p class="parrafo">Esta Resolución entrará en vigor el 1 de marzo de 2019 y será aplicable a partir de esa fecha a todas las solicitudes de prestaciones comprendidas en los anexos, con independencia del momento en que haya tenido lugar el correspondiente hecho causante y siempre que no haya prescrito el derecho a su reconocimiento.</p>
+    <p class="parrafo_2">Madrid, 19 de febrero de 2019.–El Director General de la Mutualidad General de Funcionarios Civiles del Estado, Antonio Sánchez Díaz.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Anexos II, III y IV de la Orden APU/2245/2005, de 30 de junio</p>
+    <p class="anexo_num">ANEXO II</p>
+    <p class="anexo_tit">Prestaciones dentarias</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de prestación</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Importe unidad</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dentadura completa (superior e inferior).</td>
+          <td class="cuerpo_tabla_der">200</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dentadura superior o inferior.</td>
+          <td class="cuerpo_tabla_der">100</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Pieza, funda o corona (cada una).</td>
+          <td class="cuerpo_tabla_der">20</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Empaste, obturación o reconstrucción (cada uno).</td>
+          <td class="cuerpo_tabla_der">10</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Endodoncia.</td>
+          <td class="cuerpo_tabla_der">20</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Implante osteointegrado.</td>
+          <td class="cuerpo_tabla_der">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tratamiento de ortodoncia.</td>
+          <td class="cuerpo_tabla_der">250</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Delimitación y condiciones de tramitación</p>
+    <p class="parrafo_2">1. Las solicitudes deberán presentarse a través de la sede electrónica de MUFACE, en la dirección https://sede.muface.gob.es/, proceso de «Solicitud de Prestaciones Dentarias» mediante certificado digital reconocido, DNI electrónico, identificación Cl@ve Permanente o Cl@ve PIN, según lo previsto en la Orden PRE/1838/2014, de 8 de octubre, por la que se publica el Acuerdo de Consejo de Ministros, de 19 de septiembre de 2014, por el que se aprueba Cl@ve, la Plataforma Común del Sector público Administrativo Estatal para la identificación, autenticación y firma electrónica, mediante el uso de claves concertadas.</p>
+    <p class="parrafo">Deberá acompañarse la documentación correspondiente en formato electrónico.</p>
+    <p class="parrafo">2. No obstante, los mutualistas que no se encuentren en situación de activo ( jubilados, mutualistas voluntarios, así como beneficiarios con título propio) podrán presentar sus solicitudes ante cualquier Servicio Provincial u Oficina Delegada de MUFACE, presencialmente o por correo postal, o en cualquiera de los registros indicados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común durante los días hábiles/laborables de los meses de marzo, septiembre y octubre de cada año natural.</p>
+    <p class="parrafo">No se admitirán solicitudes en formato papel, por ninguno de los medios indicados en el párrafo anterior, fuera de estos periodos, salvo aquellas relativas a hechos causantes cuyo derecho prescriba durante el año natural de presentación de la solicitud.</p>
+    <p class="parrafo">Los interesados deberán utilizar el impreso normalizado correspondiente disponible tanto en las oficinas de MUFACE, como en la página web de la Mutualidad, cuya dirección electrónica es www.muface.es, junto al que deberá acompañarse la documentación pertinente.</p>
+    <p class="parrafo">3. La solicitud deberá acompañarse de la factura del odontólogo, estomatólogo o cirujano maxilofacial que haya efectuado el tratamiento o, en su caso, del protésico dental que haya realizado la prótesis o aparato de ortodoncia que deberá acompañarse del informe o factura del especialista que haya realizado el tratamiento.</p>
+    <p class="parrafo">La factura deberá reunir todos los requisitos legales y reglamentarios para su validez y en la misma deberá figurar el detalle de conceptos y precios así como la constancia del pago, o ir acompañada, en su caso, del correspondiente recibo que lo acredite. Requisitos de las facturas:</p>
+    <p class="parrafo_2">a) Número y, en su caso, serie de la factura.</p>
+    <p class="parrafo">b) Fecha de su expedición.</p>
+    <p class="parrafo">c) Nombre y apellidos, razón o denominación social completa, así como el NIF del emisor.</p>
+    <p class="parrafo">d) Nombre y apellidos del destinatario y solo en los supuestos excepcionales establecidos en el 6.1d) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por Real Decreto 1619/2012, de 30 de noviembre, el NIF del destinatario.</p>
+    <p class="parrafo">e) Domicilio del emisor y del destinatario.</p>
+    <p class="parrafo">f) Descripción de las operaciones, consignándose todos los datos necesarios para la determinación de la base imponible de aquellas y su importe.</p>
+    <p class="parrafo">g) Debe contener la indicación de que la operación está exenta del Impuesto sobre el Valor Añadido.</p>
+    <p class="parrafo">h) Fecha en que se hayan efectuado las operaciones que se documentan, si se trata de fecha distinta a la de expedición de la factura.</p>
+    <p class="parrafo_2">4. MUFACE podrá requerir al solicitante la documentación que considere necesaria y realizar de oficio las comprobaciones oportunas, tanto para completar la documentación que se hubiera aportado con carácter previo a la resolución de la solicitud como para verificar aquellos extremos que hubieran sido objeto de simple declaración, aun tratándose de solicitudes ya resueltas.</p>
+    <p class="parrafo">Los mutualistas deberán conservar los originales de las facturas y los otros documentos originales de valor probatorio durante un plazo de cuatro años, contados desde la fecha de cobro de la prestación, tal y como establece el artículo 19 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por Real Decreto 1619/2012, de 30 de noviembre.</p>
+    <p class="parrafo">En el caso de verificarse el incumplimiento de las condiciones y requisitos necesarios para su concesión, MUFACE solicitará el reintegro de los importes abonados en los términos del artículo 55 del Reglamento General del Mutualismo Administrativo, aprobado por Real Decreto 375/2003, de 28 de marzo.</p>
+    <p class="parrafo">5. Cualquiera que sea el canal de presentación de la solicitud será de aplicación lo dispuesto en el en el artículo 53.1 del Reglamento General de Mutualismo Administrativo, que establece que el derecho al reconocimiento de las prestaciones prescribirá a los cinco años, contados a partir del día siguiente a aquél en que tenga lugar el hecho causante de la prestación de que se trate. La prescripción se interrumpirá, además de por la reclamación ante la Mutualidad General, por las causas ordinarias establecidas en el artículo 1973 del Código Civil.</p>
+    <p class="parrafo">A efectos de lo previsto en este apartado, en relación al hecho causante se tendrá en cuenta la fecha de la correspondiente factura y en cuanto a la fecha de presentación, aquélla en la que tenga entrada la solicitud en el registro público correspondiente.</p>
+    <p class="parrafo">6. Conforme a la normativa vigente el plazo máximo para la resolución de estas prestaciones es de dos meses y el silencio administrativo tendrá efectos estimatorios.</p>
+    <p class="parrafo">7. Los tratamientos odontológicos incluidos en los Conciertos entre MUFACE y las entidades de seguro prestadoras de asistencia sanitaria no darán lugar a las ayudas establecidas en el presente Anexo.</p>
+    <p class="parrafo">8. Quedan excluidas de la prestación las piezas, fundas o coronas, dentaduras y empastes provisionales, así como cualquier tratamiento reparador sobre la dentición temporal.</p>
+    <p class="parrafo">9. Las ayudas para el tratamiento con prótesis dentarias (dentadura: completa, superior, inferior o por piezas, fundas o coronas) y ortodoncia comprenden tanto las actuaciones clínicas precisas para su implantación como el coste de la correspondiente prótesis o aparato de ortodoncia.</p>
+    <p class="parrafo">10. La ayuda por endodoncia incluye la ayuda por el empaste, obturación o reconstrucción de la pieza tratada, aunque no se haga constar expresamente en la factura.</p>
+    <p class="parrafo">11. La ayuda para implantes osteointegrados sólo se podrá reconocer para un máximo de doce implantes por cada beneficiario, de forma que los beneficiarios a los que ya se les haya reconocido la correspondiente a doce implantes no podrán causar nuevas prestaciones por este concepto. Esta ayuda es compatible con la de piezas siempre que éstas no sean provisionales.</p>
+    <p class="parrafo">12. El tratamiento de ortodoncia se concederá sólo en aquellos casos iniciados antes de los 18 años, de una sola vez y para un único tratamiento. En el supuesto de que el beneficiario haya cumplido los 18 años en la fecha de la factura, en el informe se deberá acreditar la fecha en la que inició el tratamiento.</p>
+    <p class="parrafo">13. Sólo se podrá conceder un máximo de doce ayudas por beneficiario y año natural para cada una de las prestaciones de pieza, empaste y endodoncia.</p>
+    <p class="anexo_num">ANEXO III</p>
+    <p class="anexo_tit">Prestaciones oculares</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de prestación</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Importe unidad</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gafas (de lejos o cerca).</td>
+          <td class="cuerpo_tabla_der">20</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Gafas bifocal /progresiva.</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sustitución cristal (lejos o cerca).</td>
+          <td class="cuerpo_tabla_der">10</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sustitución cristal bifocal/progresivo.</td>
+          <td class="cuerpo_tabla_der">15</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lentilla.</td>
+          <td class="cuerpo_tabla_der">20</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lentillas desechables (ayuda anual).</td>
+          <td class="cuerpo_tabla_der">30</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Lente terapéutica.</td>
+          <td class="cuerpo_tabla_der">40</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ayudas ópticas para Baja Visión (microscopios, telescopios, telemicroscopios, lupas y filtros).</td>
+          <td class="cuerpo_tabla_der">180</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Ayudas prismáticas para alteraciones severas de la motilidad ocular.</td>
+          <td class="cuerpo_tabla_der">80</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Delimitación y condiciones de tramitación</p>
+    <p class="parrafo_2">1. Las solicitudes deberán presentarse a través de la sede electrónica de MUFACE, en la dirección https://sede.muface.gob.es/, proceso de «Solicitud de prestaciones oculares» mediante certificado digital reconocido, DNI electrónico, identificación Cl@ve Permanente o Cl@ve PIN, según lo previsto en la Orden PRE/1838/2014, de 8 de octubre, por la que se publica el Acuerdo de Consejo de Ministros, de 19 de septiembre de 2014, por el que se aprueba Cl@ve, la Plataforma Común del Sector público Administrativo Estatal para la identificación, autenticación y firma electrónica, mediante el uso de claves concertadas.</p>
+    <p class="parrafo">Deberá acompañarse la documentación correspondiente en formato electrónico.</p>
+    <p class="parrafo">2. No obstante, los mutualistas que no se encuentren en situación de activo ( jubilados, mutualistas voluntarios, así como beneficiarios con título propio) podrán presentar sus solicitudes ante cualquier Servicio Provincial u Oficina Delegada de MUFACE, presencialmente o por correo postal, o en cualquiera de los registros indicados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común durante los días hábiles/laborables de los meses de marzo, septiembre y octubre de cada año natural.</p>
+    <p class="parrafo">No se admitirán solicitudes en formato papel, por ninguno de los medios indicados en el párrafo anterior, fuera de estos periodos, salvo aquellas relativas a hechos causantes cuyo derecho prescriba durante el año natural de presentación de la solicitud.</p>
+    <p class="parrafo">Los interesados deberán utilizar el impreso normalizado correspondiente disponible tanto en las oficinas de MUFACE, como en la página web de la Mutualidad, cuya dirección electrónica es www.muface.es, junto al que deberá acompañarse la documentación pertinente.</p>
+    <p class="parrafo">3. La solicitud deberá acompañarse de la factura del óptico o del establecimiento autorizado a estos efectos por la administración sanitaria competente para garantizar que se ha realizado la adaptación individual del producto al paciente. Para lentes terapéuticas la factura puede ser emitida por el especialista en oftalmología.</p>
+    <p class="parrafo">La factura deberá reunir todos los requisitos legales y reglamentarios para su validez y en la misma deberá figurar el detalle de conceptos y precios, así como la constancia del pago o ir acompañada, en su caso, del correspondiente recibo que lo acredite. Requisitos de las facturas:</p>
+    <p class="parrafo_2">a) Número y, en su caso, serie de la factura.</p>
+    <p class="parrafo">b) Fecha de su expedición.</p>
+    <p class="parrafo">c) Nombre y apellidos, razón o denominación social completa, así como el NIF del emisor.</p>
+    <p class="parrafo">d) Nombre y apellidos del destinatario y solo en los supuestos excepcionales establecidos en el 6.1d) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por Real Decreto 1619/2012, de 30 de noviembre, el NIF del destinatario.</p>
+    <p class="parrafo">e) Domicilio del emisor y del destinatario.</p>
+    <p class="parrafo">f) Descripción de las operaciones, consignándose todos los datos necesarios para la determinación de la base imponible de aquellas y su importe.</p>
+    <p class="parrafo">g) Tipo del I.V.A. aplicable, con el correspondiente desglose entre base y cuota del I.V.A.</p>
+    <p class="parrafo">h) Fecha en que se hayan efectuado las operaciones que se documentan, si se trata de fecha distinta a la de expedición de la factura.</p>
+    <p class="parrafo_2">4. MUFACE podrá requerir al solicitante la documentación que considere necesaria y realizar de oficio las comprobaciones oportunas, tanto para completar la documentación que se hubiera aportado con carácter previo a la resolución de la solicitud como para verificar aquellos extremos que hubieran sido objeto de simple declaración, aun tratándose de solicitudes ya resueltas.</p>
+    <p class="parrafo">Los mutualistas deberán conservar los originales de las facturas y los otros documentos originales de valor probatorio durante un plazo de 4 años, contados desde la fecha de cobro de la prestación, tal y como establece el artículo 19 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por Real Decreto 1619/2012, de 30 de noviembre.</p>
+    <p class="parrafo">En el caso de verificarse el incumplimiento de las condiciones y requisitos necesarios para su concesión, MUFACE solicitará el reintegro de los importes abonados en los términos del artículo 55 del Reglamento General del Mutualismo Administrativo.</p>
+    <p class="parrafo">5. Cualquiera que sea el canal de presentación de la solicitud será de aplicación lo dispuesto en el en el artículo 53.1 del Reglamento General de Mutualismo Administrativo, que establece que el derecho al reconocimiento de las prestaciones prescribirá a los cinco años, contados a partir del día siguiente a aquél en que tenga lugar el hecho causante de la prestación de que se trate. La prescripción se interrumpirá, además de por la reclamación ante la Mutualidad General, por las causas ordinarias establecidas en el artículo 1973 del Código Civil.</p>
+    <p class="parrafo">A efectos de lo previsto en este apartado, en relación al hecho causante se tendrá en cuenta la fecha de la correspondiente factura y en cuanto a la fecha de presentación, aquélla en la que tenga entrada la solicitud en el registro público correspondiente.</p>
+    <p class="parrafo">6. Conforme a la normativa vigente el plazo máximo para la resolución de estas prestaciones es de dos meses y el silencio administrativo tendrá efectos estimatorios.</p>
+    <p class="parrafo">7. En el caso de las gafas y sustitución de cristales sólo se concederá una gafa o la sustitución como máximo de dos cristales por beneficiario y año natural.</p>
+    <p class="parrafo">8. En el caso de las lentillas sólo se concederán como máximo dos lentillas por beneficiario y año natural. Si las lentillas fueran desechables, la ayuda máxima a conceder por este concepto será de 30 euros por año natural y beneficiario, debiéndose solicitar de una sola vez. Las prestaciones de lentilla y lentillas desechables serán incompatibles entre sí, aun cuando para cada caso no se supere las unidades/cantidad máxima financiable por año natural. Estas limitaciones no regirán para lentes terapéuticas.</p>
+    <p class="parrafo">9. En el caso de lentes terapéuticas se requiere informe del especialista en oftalmología con el diagnóstico y la prescripción.</p>
+    <p class="parrafo">10. Podrán acceder a las prestaciones para ayudas ópticas para baja visión los beneficiarios que presenten una agudeza visual igual o inferior a 0,3 (3/10) con corrección en el mejor ojo o un campo visual inferior a 10.º desde el punto de fijación. Se requiere para la primera solicitud de esta ayuda informe del especialista en oftalmología en el que detalle la agudeza visual y, en su caso, el campo visual. Se concederá un máximo de 360 euros por año natural y beneficiario.</p>
+    <p class="parrafo">11. En el caso de las ayudas prismáticas se requiere informe del especialista en oftalmología con el diagnóstico y la prescripción. Se concederá un máximo de 160 euros por año natural y beneficiario.</p>
+    <p class="anexo_num">ANEXO IV</p>
+    <p class="anexo_tit">Otras prestaciones</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de prestación</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">Importe unidad</p>
+            <p class="cabeza_tabla">–</p>
+            <p class="cabeza_tabla">Euros</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Audífono.</td>
+          <td class="cuerpo_tabla_der">300</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Colchón o colchoneta antiescaras (con o sin compresor).</td>
+          <td class="cuerpo_tabla_der">125</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Laringófono.</td>
+          <td class="cuerpo_tabla_der">1.100</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_redonda">Delimitación y condiciones de tramitación</p>
+    <p class="parrafo_2">1. Las solicitudes podrán presentarse ante cualquier Servicio Provincial u Oficina Delegada de MUFACE, presencialmente o por correo postal, o en cualquiera de los registros indicados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre.</p>
+    <p class="parrafo">2. La solicitud deberá acompañarse del informe médico con el diagnóstico y la prescripción, así como con la correspondiente factura, que deberá reunir todos los requisitos legales y reglamentarios para su validez y en la misma deberá figurar el detalle de conceptos y precios, así como la constancia del pago o ir acompañada, en su caso, del correspondiente recibo que lo acredite. Requisitos de las facturas:</p>
+    <p class="parrafo_2">a) Número y, en su caso, serie de la factura.</p>
+    <p class="parrafo">b) Fecha de su expedición.</p>
+    <p class="parrafo">c) Nombre y apellidos, razón o denominación social completa, así como el NIF del emisor.</p>
+    <p class="parrafo">d) Nombre y apellidos del destinatario y solo en los supuestos excepcionales establecidos en el 6.1d) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por Real Decreto 1619/2012, de 30 de noviembre, el NIF del destinatario. e) Domicilio del emisor y del destinatario</p>
+    <p class="parrafo">e) Domicilio del emisor y del destinatario.</p>
+    <p class="parrafo">f) Descripción de las operaciones, consignándose todos los datos necesarios para la determinación de la base imponible de aquellas y su importe.</p>
+    <p class="parrafo">g) Tipo del I.V.A. aplicable, con el correspondiente desglose entre base y cuota del I.V.A.</p>
+    <p class="parrafo">h) Fecha en que se hayan efectuado las operaciones que se documentan, si se trata de fecha distinta a la de expedición de la factura.</p>
+    <p class="parrafo_2">3. El período mínimo de renovación ordinaria de las prestaciones de audífono, colchón o colchoneta antiescaras o laringófono será de veinticuatro meses desde la fecha de la factura.</p>
+    <p class="parrafo">4. No se abonarán reparaciones en período de garantía. En el caso de los artículos que precisen algún tipo de reparación, la cuantía de la ayuda será como máximo el 50% de la ayuda establecida para su adquisición, acompañando junto con la solicitud el certificado de garantía del producto cuando el producto tenga una antigüedad inferior a 5 años. Las ayudas concedidas por este concepto serán tenidas en cuenta a efectos del cómputo de plazos para la renovación del mismo artículo.</p>
+    <p class="parrafo">5. La prescripción deberá ser llevada a cabo por especialista en la materia correspondiente a la patología que justifique su prescripción y que esté concertado o preste servicios en la entidad a la que se encuentre adscrito el titular.</p>
+    <p class="parrafo">6. La ayuda para audífono prevista en este Anexo será incompatible con la prestación de audífono prevista en el Catálogo de Material Ortoprotésico del Anexo I. Cuando se prescriba la adaptación bilateral de audífonos, ambos podrán ser objeto de ayuda.</p>
+    <p class="centro_redonda">Bombas portátiles de infusión subcutánea continua de insulina</p>
+    <p class="parrafo_2">La indicación, autorización y suministro de bombas portátiles de infusión subcutánea continua de insulina a los mutualistas y demás beneficiarios de la asistencia sanitaria de MUFACE se realizará en los términos y condiciones que estén estipulados en los conciertos de asistencia sanitaria suscritos por la Mutualidad.</p>
+  </texto>
+</documento>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20181023201615">
+  <metadatos>
+    <identificador>BOE-A-2018-12657</identificador>
+    <titulo>Recurso de inconstitucionalidad n.º 5424-2017, contra el artículo 3, en lo relativo al suministro de electricidad y gas de la Ley 3/2017, de 3 de febrero, para paliar y reducir la pobreza energética en la Comunitat Valenciana.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>226</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="1250">Auto</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20180906</fecha_disposicion>
+    <fecha_publicacion>20180918</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>89994</pagina_inicial>
+    <pagina_final>89994</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2018-12657</url_epub>
+    <url_pdf>/boe/dias/2018/09/18/pdfs/BOE-A-2018-12657.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="85" orden="">Administración Local</materia>
+      <materia codigo="329" orden="">Asistencia social</materia>
+      <materia codigo="420" orden="">Ayudas</materia>
+      <materia codigo="1318" orden="">Comunidad Valenciana</materia>
+      <materia codigo="1625" orden="">Consumo de energía</materia>
+      <materia codigo="3188" orden="">Energía eléctrica</materia>
+      <materia codigo="3889" orden="">Gas</materia>
+      <materia codigo="5632" orden="">Pobreza</materia>
+      <materia codigo="5904" orden="">Recursos de inconstitucionalidad</materia>
+      <materia codigo="6806" orden="">Suministro de energía</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="104" orden="">Asuntos sociales</alerta>
+      <alerta codigo="106" orden="">Consumidores y usuarios</alerta>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="115" orden="">Energía</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2017-14165" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>su extinción, por desaparición de su objeto, en relación con el art. 3 de la Ley 3/2017, de 3 de febrero</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2017-2422" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El Pleno del Tribunal Constitucional, por auto de 6 de septiembre actual, en el recurso de inconstitucionalidad núm. 5424-2017, promovido por el Presidente del Gobierno, contra el artículo 3, en lo relativo al suministro de electricidad y gas de la Ley 3/2017, de 3 de febrero, para paliar y reducir la pobreza energética en la Comunitat Valenciana, ha acordado: «Declarar extinguido el presente recurso de inconstitucionalidad por desaparición sobrevenida de su objeto». Recurso que fue admitido a trámite el 28 de noviembre de 2017 y publicado en el «Boletín Oficial del Estado» núm. 294, de 4 de diciembre de 2017.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Madrid, 6 de septiembre de 2018.–La Secretaria de Justicia del Pleno del Tribunal Constitucional, Herminia Palencia Guerra.</p>
+  </texto>
+</documento>

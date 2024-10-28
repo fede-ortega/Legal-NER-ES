@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20190429095601">
+  <metadatos>
+    <identificador>BOE-A-2018-12652</identificador>
+    <titulo>Resolución de 31 de julio de 2018, de la Dirección Provincial del Servicio Público de Empleo Estatal, por la que se crea y regula la Mesa Provincial de Contratación en Ceuta y se designan miembros.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>225</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="9564">Ministerio de Trabajo, Migraciones y Seguridad Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20180731</fecha_disposicion>
+    <fecha_publicacion>20180917</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>89855</pagina_inicial>
+    <pagina_final>89856</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2018/09/17/pdfs/BOE-A-2018-12652.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <url_eli>https://www.boe.es/eli/es/res/2018/07/31/(4)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2018/07/31/(4)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2018-12652</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-31</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(4)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2018-12652</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-31</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(4)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2018/07/31/(4)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 31 de julio de 2018, de la Dirección Provincial del Servicio Público de Empleo Estatal, por la que se crea y regula la Mesa Provincial de Contratación en Ceuta y se designan miembros.</eli:title>
+                <eli:publisher rdf:resource="www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-09-17</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2018/07/31/(4)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="828" orden="">Ceuta</materia>
+      <materia codigo="4940" orden="">Mesas de Contratación</materia>
+      <materia codigo="7886" orden="">Servicio Público de Empleo Estatal</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="109" orden="">Derecho Administrativo</alerta>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2017-12902" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 326 de la Ley 9/2017, de 8 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2009-8053" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 21 y 22 del Real Decreto 817/2009, de 8 de mayo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El artículo 326 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 (en adelante LCSP), establece que los órganos de contratación de las Administraciones Públicas, salvo en el caso en que la competencia para contratar corresponda a una Junta de Contratación, estarán asistidos, en los procedimientos de adjudicación que enumera, por una Mesa de Contratación, órgano de asistencia técnica especializada. Así mismo los artículos 21 y 22 del Real Decreto 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, regulan la composición y las funciones de las Mesas de Contratación y facultan al órgano de contratación para que designe a sus miembros, bien, con carácter permanente o para una pluralidad de contratos, bien de manera específica para la adjudicación de cada contrato.</p>
+    <p class="parrafo">El artículo 323 LCSP, relativo a los órganos de contratación estatales, establece en su apartado 2 que en los organismos autónomos integrantes del sector público estatal, el órgano de contratación es su Director.</p>
+    <p class="parrafo">La Resolución de 6 de octubre de 2008, del Servicio Público de Empleo Estatal, sobre delegación de competencias en órganos administrativos del Organismo (BOE de 13 de octubre), modificada por la Resolución de 4 de noviembre de 2009 (BOE de 24 de noviembre), atribuye en su apartado Primero.siete.1.1, 1.4, 1.5 y 1.6, competencias delegadas a los Directores Provinciales del Organismo, en materia de Administración General y la facultad para celebrar contratos de obras, suministros y servicios en los términos y con los límites que la misma señala.</p>
+    <p class="parrafo">En su virtud, en uso de las facultades conferidas por delegación del Director General del Servicio Público de Empleo Estatal (a partir de ahora SEPE), dispongo:</p>
+    <p class="parrafo_2">Primero.–La constitución, con carácter permanente, de la Mesa Provincial de Contratación del Servicio Público de Empleo Estatal en Ceuta, como órgano colegiado asesor del órgano de contratación, en aplicación de lo previsto en el artículo 21.4 del Real Decreto 817/2009, de 8 de mayo, y con las funciones que le asignan los artículos 326.2 de la LCSP y 22 del Real Decreto citado.</p>
+    <p class="parrafo">La composición de esta Mesa se adecuará a la designación de miembros que se recoge en el apartado siguiente y será publicada en el BOE y en el Perfil del Contratante.</p>
+    <p class="parrafo">Segundo.–Definir los componentes de la Mesa Provincial de Contratación, que estará integrada con carácter permanente por los siguientes miembros:</p>
+    <p class="parrafo_2">a) Presidencia: El Director Provincial del SEPE en Ceuta, quien será sustituido, en caso de vacante, ausencia o enfermedad por el Subdirector Provincial de Gestión Económica y Servicios y, en su defecto, por el Subdirector Provincial de Prestaciones Empleo y Formación.</p>
+    <p class="parrafo">b) Vocalías: El Abogado del Estado en Ceuta; El Interventor Territorial Delegado de Hacienda y Función Pública en Ceuta; El Subdirector Provincial de Gestión Económica y Servicios y El Jefe de Sección de Gestión Económica y Servicios.</p>
+    <p class="parrafo">c) Secretaría: El Coordinador Informático, siendo suplente un funcionario o empleado público del ámbito de la Dirección Provincial del SEPE designado por el Presidente.</p>
+    <p class="parrafo">d) Suplentes de los vocales adscritos al Organismo: en caso de vacante, ausencia o enfermedad serán los siguientes: El Subdirector Provincial de Prestaciones, Empleo y Formación; El Letrado; El Jefe de Negociado de Habilitación y Pagaduría.</p>
+    <p class="parrafo_2">Todos los miembros tendrán voz y voto, a excepción del Secretario, que tendrá voz y no voto.</p>
+    <p class="parrafo">No podrá formar parte de las Mesas de Contratación el personal que haya participado en la redacción técnica del contrato de que se trate.</p>
+    <p class="parrafo">Tercero.–La Mesa, cuando lo considere oportuno por razón de la materia contractual, podrá solicitar el asesoramiento de técnicos o expertos independientes con conocimientos acreditados en las materias relacionadas con el objeto del contrato, los cuales únicamente tendrán voz. Dicha asistencia será autorizada por el órgano de contratación y deberá ser reflejada expresamente en el expediente, con referencia a las identidades, su formación y su experiencia profesional.</p>
+    <p class="parrafo">Cuarto.–De acuerdo con lo dispuesto en el apartado 6 del artículo 326, la Mesa de Contratación que intervenga en el procedimiento abierto simplificado regulado en el artículo 159 LCSP, se considerará válidamente constituida si lo está por el Presidente, el Secretario y dos vocales, uno designado por la Abogacía del Estado en Ceuta y otro por la Intervención Territorial de Hacienda y Función Pública en Ceuta.</p>
+    <p class="parrafo">Quinto.–La Mesa de Contratación se reunirá en aquellos casos en que la convoque el Presidente, en atención a los expedientes de contratación que hayan de tramitarse, y que, de acuerdo con el apartado primero de esta Resolución, exijan su intervención.</p>
+    <p class="parrafo">Sexto.–La Mesa se regirá, en cuanto a su funcionamiento, por lo dispuesto en esta Resolución y en lo no contemplado en la misma, por la Ley 9/2017 de Contratos del Sector Público; y en lo que no se oponga a la misma por el Real Decreto 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público; por el Reglamento general de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre, y por los preceptos recogidos en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="parrafo_2">Ceuta, 31 de julio de 2018.–El Director Provincial del Servicio Público de Empleo Estatal en Ceuta, P.S. (Resolución de 6 octubre 2008), el Subdirector Provincial de Gestión Económica y Servicios, Carlos Augusto Torrado López.</p>
+  </texto>
+</documento>

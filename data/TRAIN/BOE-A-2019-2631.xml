@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20190226132601">
+  <metadatos>
+    <identificador>BOE-A-2019-2631</identificador>
+    <titulo>Resolución de 29 de enero de 2019, de la Universidad de Vigo, por la que se publica el plan de estudios de Graduado en Ingeniería Biomédica.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>48</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20190129</fecha_disposicion>
+    <fecha_publicacion>20190225</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>17892</pagina_inicial>
+    <pagina_final>17895</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2019/02/25/pdfs/BOE-A-2019-2631.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="512" orden="">Biotecnología</materia>
+      <materia codigo="4173" orden="">Ingenieros</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7057" orden="">Universidad de Vigo</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2001-24515" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2018-12227" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Resolución de 29 de agosto de 2018</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2019-2633" orden="">
+          <palabra codigo="270">SE MODIFICA</palabra>
+          <texto>el plan en relación a la acreditación del nivel B1 de inglés, por Resolución  de 29 de enero de 2019</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA), declarado el carácter oficial del título por acuerdo del Consejo de Ministros de 3 de agosto de 2018, publicado mediante resolución de la Secretaría General de Universidades de 29 de agosto de 2018 («BOE» de 7 de septiembre), y a efectos del cumplimiento de lo previsto en el artículo 35.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, modificada por la Ley Orgánica 4/2007, de 12 de abril, que establece que los Rectores y las Rectoras de las universidades deberán ordenar la publicación en «Boletín Oficial del Estado» y en el «Diario Oficial de la Comunidad Autónoma»,</p>
+    <p class="parrafo">Este Rectorado resuelve:</p>
+    <p class="parrafo_2">Publicar el plan de estudios conducente a la obtención del Título Universitario Oficial de Graduado o Graduada en Ingeniería Biomédica por la Universidad de Vigo, que se recoge en el anexo a esta resolución.</p>
+    <p class="parrafo_2">Vigo, 29 de enero de 2019.–El Rector, Manuel Joaquín Reigosa Roger.</p>
+    <p class="anexo">ANEXO I</p>
+    <p class="parrafo_2">Denominación del título: Graduado o Graduada en Ingeniería Biomédica por la Universidad de Vigo.</p>
+    <p class="parrafo">Rama de conocimiento a la que se adscribe el título (RD 1393/2007, de 29 de octubre): Ingeniería y Arquitectura.</p>
+    <p class="parrafo">Código de la titulación: V12G420 (Escuela de Ingeniería Industrial. Campus de Vigo).</p>
+    <p class="parrafo">Código RUCT: 2503668.</p>
+    <p class="parrafo_2">Distribución del plan de estudios en créditos ECTS:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">60</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias obligatorias</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">114</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias optativas</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">48</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas obligatorias</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">6</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">12</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">  Total</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">240</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Distribución de los créditos de la formación básica del plan de estudios:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" rowspan="2">Rama de conocimiento</th>
+          <th class="cabeza_tabla" rowspan="2">Materia de la rama (RD 1393/2007, de 29 de octubre)</th>
+          <th class="cabeza_tabla" colspan="2" rowspan="2">
+            <p class="cabeza_tabla">Materias vinculadas del plan de estudios</p>
+          </th>
+          <th class="cabeza_tabla" colspan="3">ECTS</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Materia</th>
+          <th class="cabeza_tabla">Rama</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="9">Ingeniería y Arquitectura</td>
+          <td class="cuerpo_tabla_izq">Empresa</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Empresa: Introducción a la gestión empresarial</td>
+          <td class="cuerpo_tabla_centro" colspan="2">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="9">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión gráfica</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Expresión gráfica: Expresión gráfica</td>
+          <td class="cuerpo_tabla_centro" colspan="2">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Física</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Física: Física I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">Física: Física II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Informática</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Informática: Informática para la ingeniería</td>
+          <td class="cuerpo_tabla_centro" colspan="2">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Matemáticas</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Matemáticas: Cálculo I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">Matemáticas: Álgebra y estadística</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">Matemáticas: Cálculo II y ecuaciones diferenciales</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Química: Química</td>
+          <td class="cuerpo_tabla_centro" colspan="2">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+          <td class="cuerpo_tabla_izq">  Total ECTS</td>
+          <td class="cuerpo_tabla_centro" colspan="3">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="centro_negrita">Organización temporal del plan de estudios del Grado en Ingeniería Biomédica</p>
+    <p class="centro_cursiva">Escuela de Ingeniería Industrial - Campus de Vigo</p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">CURSO</th>
+          <th class="cabeza_tabla">SEM.</th>
+          <th class="cabeza_tabla">ASIGNATURA</th>
+          <th class="cabeza_tabla">MOD</th>
+          <th class="cabeza_tabla">TIPO</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla"> </th>
+          <th class="cabeza_tabla">CURSO</th>
+          <th class="cabeza_tabla">SEM.</th>
+          <th class="cabeza_tabla">ASIGNATURA</th>
+          <th class="cabeza_tabla">MOD</th>
+          <th class="cabeza_tabla">TIPO</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Expresión gráfica: Expresión gráfica</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Empresa: Introducción a la gestión empresarial</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Física: Física I</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Física: Física II</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Matemáticas: Álgebra y Estadística</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Informática: Informática para la ingeniería</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Matemáticas: Cálculo I</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Matemáticas: Cálculo II y ecuaciones diferenciales</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Química: Química</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Bioquímica y Biología celular</td>
+          <td class="cuerpo_tabla_centro">FOB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de electrónica para biomedicina</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Ciencia e ingeniería de materiales</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Fisiología general</td>
+          <td class="cuerpo_tabla_centro">FOB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Termodinámica aplicada y transmisión de calor</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Estructura y patología médica</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Sistemas mecánicos</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Estructura y patología médico-quirúrgica</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de electrotecnia</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de organización de empresas y gestión sanitaria</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Bioestadística</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de automática y control</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Ingeniería clínica y hospitalaria</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Mecánica de sólidos deformables en ingeniería biomédica</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de tecnología hospitalaria</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Mecánica de fluidos</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Sensores y adquisición de señales biomédicas</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">
+            <p class="cuerpo_tabla_centro"> </p>
+          </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Redacción y ejecución de proyectos en ingeniería biomédica</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Análisis instrumental</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Prácticas de tecnología hospitalaria</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Componentes eléctricos en vehículos</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Inglés técnico I</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Inglés técnico II</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Metodología para la elaboración, presentación y gestión de trabajos técnicos</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Programación avanzada para la ingeniería</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Seguridad e higiene industrial</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Tecnología láser</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Prácticas externas: prácticas en empresa</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Trabajo de fin de grado</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="13">Intensificación: BIOTECH (BT) (Electrónica, tratamiento de información hospitalaria, control y señales en biomedicina).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Técnicas de procesado de señales biomédicas</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Dispositivos electrónicos digitales en medicina</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Generación y procesado de imagen en biomedicina</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Instrumentación biomédica</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Redes de comunicaciones, manipulación y telemedicina</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Sistemas de información en entornos biomédicos</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Sistemas automáticos de control en biomedicina</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="13">Intensificación: BIOMMEC (BM) (Implantología, biomecánica, biomateriales y equipamiento).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Biomateriales</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Biomecánica</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Biocompatibilidad y comportamiento mecánico de materiales en implantología</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Simulación aplicada a fluidos y sistemas mecánicos</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Diseño y fabricación de productos y equipos biomédicos</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Nanomedicina</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Instalaciones hospitalarias</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_centro">OP</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Optatividad: En el segundo semestre del tercer curso y en cuarto curso se deberá elegir obligatoriamente una de las dos intensificaciones ofertadas (BT o BM). Para obtener la intensificación se tendrá que superar los 42 ECTS optativos correspondientes a la intensificación elegida y 6 ECTS a escoger entre las optativas generales (OG) y las prácticas externas: prácticas en empresa (PE) ofertadas en el segundo semestre del cuarto curso</p>
+    <p class="parrafo">La temporalidad de las materias podrá, por circunstancias excepcionales, sufrir modificaciones, siempre que lo autorice el Vicerrectorado con competencias en organización académica y con anterioridad al inicio del curso académico.</p>
+    <p class="parrafo">SEM.: Semestre. MOD.: Módulo. FB.: Formación básica. OB.: Obligatoria. OP.: Optativa. (Ver abreviaturas en tabla de organización de la oferta de créditos).</p>
+    <p class="parrafo_2">Acreditación de idioma: El alumnado deberá acreditar, antes de la solicitud de defensa del Trabajo de Fin de Grado, la obtención de un nivel de competencia lingüística en inglés, equivalente por lo menos, al nivel B1 del MCERL.</p>
+    <p class="centro_negrita">Organización de la Oferta de créditos ECTS del Plan de Estudios por Módulos y Materias<br/>
+del Grado en Ingeniería Biomédica</p>
+    <p class="centro_cursiva">Escuela de Ingeniería Industrial – Campus de Vigo</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Abreviatura</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">ECTS</p>
+            <p class="cabeza_tabla">Oferta total</p>
+          </th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">ECTS</p>
+            <p class="cabeza_tabla">A superar</p>
+          </th>
+          <th class="cabeza_tabla">Distribución de la oferta</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_der">60</td>
+          <td class="cuerpo_tabla_der">60</td>
+          <td class="cuerpo_tabla_izq">60 Formación básica</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación obligatoria Biomedicina</td>
+          <td class="cuerpo_tabla_centro">FOB</td>
+          <td class="cuerpo_tabla_der">15</td>
+          <td class="cuerpo_tabla_der">15</td>
+          <td class="cuerpo_tabla_izq">15 Formación obligatoria Biomedicina</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Rama industrial aplicada a la  Ingeniería biomédica</td>
+          <td class="cuerpo_tabla_centro">RIIB</td>
+          <td class="cuerpo_tabla_der">60</td>
+          <td class="cuerpo_tabla_der">60</td>
+          <td class="cuerpo_tabla_izq">60 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología específica Ingeniería biomédica</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_der">39</td>
+          <td class="cuerpo_tabla_der">39</td>
+          <td class="cuerpo_tabla_izq">39 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas de Tecnología hospitalaria</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">6 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intensificación BIOTECH (Electrónica, tratamiento de información hospitalaria, control y señales en biomedicina).</td>
+          <td class="cuerpo_tabla_centro">BT</td>
+          <td class="cuerpo_tabla_der">42</td>
+          <td class="cuerpo_tabla_der" rowspan="2">42</td>
+          <td class="cuerpo_tabla_izq">42 Optativos</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intensificación BIOMMEC (Implantología, biomecánica, biomateriales y equipamiento)</td>
+          <td class="cuerpo_tabla_centro">BM</td>
+          <td class="cuerpo_tabla_der">42</td>
+          <td class="cuerpo_tabla_izq">42 Optativos</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Optativas generales</td>
+          <td class="cuerpo_tabla_centro">OG</td>
+          <td class="cuerpo_tabla_der">48</td>
+          <td class="cuerpo_tabla_der" rowspan="2">6</td>
+          <td class="cuerpo_tabla_izq">48 Optativos</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Prácticas externas: Prácticas en empresa</td>
+          <td class="cuerpo_tabla_centro">PE</td>
+          <td class="cuerpo_tabla_der">6</td>
+          <td class="cuerpo_tabla_izq">6 Optativos</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_der">12</td>
+          <td class="cuerpo_tabla_der">12</td>
+          <td class="cuerpo_tabla_izq">12 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">  Oferta total ECTS</td>
+          <td class="cuerpo_tabla_der">330</td>
+          <td class="cuerpo_tabla_der">240</td>
+          <td> </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

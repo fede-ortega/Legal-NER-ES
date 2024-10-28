@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20190226132601">
+  <metadatos>
+    <identificador>BOE-A-2019-2632</identificador>
+    <titulo>Resolución de 29 de enero de 2019, de la Universidad de Vigo, por la que se publica el plan de estudios de Graduado en Ingeniería Mecánica.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>48</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <departamento codigo="310">Universidades</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <numero_oficial/>
+    <fecha_disposicion>20190129</fecha_disposicion>
+    <fecha_publicacion>20190225</fecha_publicacion>
+    <fecha_vigencia/>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>17896</pagina_inicial>
+    <pagina_final>17899</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo=""/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub/>
+    <url_pdf>/boe/dias/2019/02/25/pdfs/BOE-A-2019-2632.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="4173" orden="">Ingenieros</materia>
+      <materia codigo="5107" orden="">Mecánica</materia>
+      <materia codigo="5605" orden="">Planes de estudios</materia>
+      <materia codigo="7057" orden="">Universidad de Vigo</materia>
+    </materias>
+    <alertas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2013-338" orden="2030">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el plan publicado por Resolución de 12 de diciembre de 2012</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-18770" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 28 del Real Decreto 1393/2007, de 29 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El plan de estudios de la titulación de grado en Ingeniería Mecánica por la Universidad de Vigo fue publicado en el «Boletín Oficial del Estado» del 11 de enero de 2013, una vez establecido el carácter oficial del título por acuerdo del Consejo de Ministros de 12 de noviembre de 2010, publicado mediante resolución de la Secretaría General de Universidades del 22 de noviembre de 2010 («BOE» de 16 de diciembre).</p>
+    <p class="parrafo">De conformidad con lo que dispone el artículo 28 del Real Decreto 1393/2007, de 29 de octubre, modificado por Real Decreto 861/2010, de 2 de julio, por el que se establece el procedimiento para la modificación de planes de estudio ya verificados, y tras obtener el informe favorable de la Agencia para la Calidad del Sistema Universitario de Galicia a la solicitud de la Universidad de Vigo de modificación del plan de estudios de la titulación de grado en Ingeniería Mecánica,</p>
+    <p class="parrafo">Este Rectorado resuelve:</p>
+    <p class="parrafo_2">Publicar el plan de estudios conducente a la obtención del título universitario oficial de graduado o graduada en Ingeniería Mecánica por la Universidad de Vigo, que se recoge en el anexo de esta resolución.</p>
+    <p class="parrafo_2">Vigo, 29 de enero de 2019.–El Rector, Manuel Joaquín Reigosa Roger.</p>
+    <p class="anexo">ANEXO</p>
+    <p class="parrafo_2">Denominación del Título: Graduado o Graduada en Ingeniería Mecánica por la Universidad de Vigo.</p>
+    <p class="parrafo">Rama de conocimiento a la que se adscribe el Título (RD 1393/2007, de 29 de octubre): Ingeniería y Arquitectura.</p>
+    <p class="parrafo">Código de la Titulación:</p>
+    <p class="parrafo_2">V12G38 - Escuela de Ingeniería Industrial - Campus de Vigo.</p>
+    <p class="parrafo">P52G38 - Centro Universitario de la Defensa en la Escuela Naval Militar de Marín (Centro Adscrito) – Campus de Pontevedra.</p>
+    <p class="parrafo_2">Código RUCT: 2502251.</p>
+    <p class="parrafo_2">Distribución del plan de estudios en créditos ECTS:</p>
+    <p class="centro_cursiva">Centro Universitario de la Defensa en la Escuela Naval Militar de Marín (Centro Adscrito)</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Tipo de materia</th>
+          <th class="cabeza_tabla">Créditos ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación básica</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">60</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias obligatorias</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">156</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Materias obligatorias específicas del Cuerpo General e Infantería de Marina</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">12</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">12</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">  Total</td>
+          <td class="cuerpo_tabla_der">
+            <p class="cuerpo_tabla_centro">240</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Distribución de los créditos de la Formación Básica del plan de estudios:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" rowspan="2">Rama de conocimiento</th>
+          <th class="cabeza_tabla" rowspan="2">Materia de la Rama (RD 1393/2007, de 29 de octubre)</th>
+          <th class="cabeza_tabla" colspan="2" rowspan="2">
+            <p class="cabeza_tabla">Materias vinculadas del plan de estudios</p>
+          </th>
+          <th class="cabeza_tabla" colspan="3">ECTS</th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Materia</th>
+          <th class="cabeza_tabla">Rama</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="9">Ingeniería y Arquitectura</td>
+          <td class="cuerpo_tabla_izq">Empresa</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Empresa: Introducción a la gestión empresarial</td>
+          <td class="cuerpo_tabla_centro" colspan="2">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="9">60</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Expresión Gráfica</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Expresión Gráfica: Expresión gráfica</td>
+          <td class="cuerpo_tabla_centro" colspan="2">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Física</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Física: Física I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">Física: Física II</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Informática</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Informática: Informática para la ingeniería</td>
+          <td class="cuerpo_tabla_centro" colspan="2">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Matemáticas</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Matemáticas: Cálculo I</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro" rowspan="3">21</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">Matemáticas: Álgebra y estadística</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">Matemáticas: Cálculo II y ecuaciones diferenciales</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Química</td>
+          <td class="cuerpo_tabla_izq" colspan="2">Química: Química</td>
+          <td class="cuerpo_tabla_centro" colspan="2">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+          <td class="cuerpo_tabla_izq">   Total ECTS</td>
+          <td class="cuerpo_tabla_centro" colspan="3">60</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Organización temporal del plan de estudios de Grado en Ingeniería Mecánica</p>
+    <p class="centro_cursiva">
+      <em>Escuela de Ingeniería Industrial – Campus de Vigo</em>
+    </p>
+    <p class="parrafo_2">La organización temporal del plan de estudios de Grado en Ingeniería Mecánica (Escuela de Ingeniería Industrial – Campus de Vigo) es la publicada por Resolución Rectoral de 12/12/2012 (BOE 11/01/2013).</p>
+    <p class="parrafo">La temporalidad de las materias podrá, por circunstancias excepcionales, sufrir modificaciones, siempre que lo autorice el Vicerrectorado con competencias en organización académica y con anterioridad al inicio del curso académico.</p>
+    <p class="parrafo">El alumnado que acceda por primera vez al Grado en Ingeniería Mecánica (Escuela de Ingeniería Industrial – Campus de Vigo) a partir del curso académico 2018/2019 deberá acreditar, antes de la solicitud de defensa del Trabajo de Fin de Grado, la obtención de un nivel de competencia lingüística en inglés, equivalente por lo menos, al nivel B1 del MCERL.</p>
+    <p class="parrafo">Quedarán exentos de acreditar dicha competencia lingüística el alumnado matriculado con anterioridad al curso 2018/2019.</p>
+    <p class="anexo">ANEXO II</p>
+    <p class="parrafo_2">Dado que los alumnos del CUD a su vez son alumnos de la Escuela Naval Militar y tendrán que realizar simultáneamente con el Título de Grado descrito, todas las actividades de formación militar específica necesaria para la obtención del despacho de Alférez de Navío / Teniente de Infantería de Marina de la Armada, la distribución de la carga lectiva para la obtención de la Titulación de Grado será a lo largo de los cinco cursos previstos para la formación de los alumnos en la Escuela Naval Militar, de acuerdo con la siguiente tabla:</p>
+    <p class="centro_negrita">Organización temporal del plan de estudios de Grado en Ingeniería Mecánica (Intensificación: Tecnología Naval)</p>
+    <p class="centro_cursiva">
+      <em>Centro Universitario de la Defensa en la Escuela Naval Militar de Marín (Pontevedra)</em>
+    </p>
+    <table class="tabla_ancha">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Sem.</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Mod.</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">ECTS</th>
+          <th class="cabeza_tabla"> </th>
+          <th class="cabeza_tabla">Curso</th>
+          <th class="cabeza_tabla">Sem.</th>
+          <th class="cabeza_tabla">Asignatura</th>
+          <th class="cabeza_tabla">Mod.</th>
+          <th class="cabeza_tabla">Tipo</th>
+          <th class="cabeza_tabla">ECTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Expresión Gráfica: Expresión gráfica</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Matemáticas: Álgebra y estadística</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">9</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Física: Física I</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Empresa: Introducción a la gestión empresarial</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Matemáticas: Cálculo I</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Física: Física II</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Informática: Informática para la ingeniería</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Química: Química</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Matemáticas: Cálculo II y ecuaciones diferenciales</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de electrotecnia</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Ciencia y tecnología de los materiales</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Teoría de máquinas y mecanismos</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Termodinámica y transmisión de calor</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Tecnología medioambiental</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Resistencia de materiales</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Mecánica de fluidos</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Inglés I</td>
+          <td class="cuerpo_tabla_centro">TN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Tecnología electrónica</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Máquinas de fluidos</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Ingeniería de materiales</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de organización de empresas</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Elasticidad y ampliación de resistencia de materiales</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Ingeniería gráfica</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de automática</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Diseño de máquinas</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de sistemas y tecnologías de fabricación</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Inglés II</td>
+          <td class="cuerpo_tabla_centro">TN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Ingeniería térmica I</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Ingeniería de fabricación y calidad dimensional</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Teoría de estructuras y construcciones industriales</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Sistemas de radiocomunicaciones</td>
+          <td class="cuerpo_tabla_centro">TN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Máquinas y motores navales*</td>
+          <td class="cuerpo_tabla_centro">CGA</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">4</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de topografía**</td>
+          <td class="cuerpo_tabla_centro">IM</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Oficina técnica</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Actividad formativa complementaria</td>
+          <td class="cuerpo_tabla_centro">TN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Sensores navales</td>
+          <td class="cuerpo_tabla_centro">TN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Trabajo de fin de grado</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">12</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Fundamentos de redes y ordenadores</td>
+          <td class="cuerpo_tabla_centro">TN</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Teoría del buque y construcción naval*</td>
+          <td class="cuerpo_tabla_centro">CGA</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Automóviles**</td>
+          <td class="cuerpo_tabla_centro">IM</td>
+          <td class="cuerpo_tabla_centro">OB</td>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_izq"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="cita">(*) Materias a superar por los alumnos del Cuerpo General de la Armada.</p>
+    <p class="cita">(**) Materias a superar por los alumnos de Infantería de Marina.</p>
+    <p class="parrafo_2">SEM.: Semestre. MOD.: Módulo (Ver abreviaturas en tabla de organización de la oferta de créditos).</p>
+    <p class="parrafo">FB: Formación básica. OB: Obligatoria.</p>
+    <p class="parrafo_2">La temporalidad de las materias podrá, por circunstancias excepcionales, sufrir modificaciones, siempre que lo autorice el Vicerrectorado con competencias en organización académica y con anterioridad al inicio del curso académico.</p>
+    <p class="anexo_num">ANEXO III</p>
+    <p class="anexo_tit">Organización de la oferta de créditos ECTS del plan de estudios por módulos y materias del Grado en Ingeniería Mecánica (Intensificación: Tecnología Naval)</p>
+    <p class="centro_cursiva">
+      <em>Centro Universitario de la Defensa en la Escuela Naval Militar de Marín (Pontevedra)</em>
+    </p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Módulo</th>
+          <th class="cabeza_tabla">Abreviatura</th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">ECTS</p>
+            <p class="cabeza_tabla">Oferta total</p>
+          </th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">ECTS</p>
+            <p class="cabeza_tabla">A superar</p>
+          </th>
+          <th class="cabeza_tabla">Distribución de la oferta</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Formación Básica</td>
+          <td class="cuerpo_tabla_centro">FB</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_centro">60</td>
+          <td class="cuerpo_tabla_izq"> 60 Formación Básica</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Común a la Rama Industrial</td>
+          <td class="cuerpo_tabla_centro">RI</td>
+          <td class="cuerpo_tabla_centro">72</td>
+          <td class="cuerpo_tabla_centro">72</td>
+          <td class="cuerpo_tabla_izq"> 72 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Tecnología Específica Mecánica</td>
+          <td class="cuerpo_tabla_centro">TE</td>
+          <td class="cuerpo_tabla_centro">48</td>
+          <td class="cuerpo_tabla_centro">48</td>
+          <td class="cuerpo_tabla_izq"> 48 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Intensificación Tecnología Naval</td>
+          <td class="cuerpo_tabla_centro">TN</td>
+          <td class="cuerpo_tabla_centro">36</td>
+          <td class="cuerpo_tabla_centro">36</td>
+          <td class="cuerpo_tabla_izq"> 36 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Cuerpo General de la Armada</td>
+          <td class="cuerpo_tabla_centro">CGA</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro" rowspan="2">12</td>
+          <td class="cuerpo_tabla_izq"> 12 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Infantería de Marina</td>
+          <td class="cuerpo_tabla_centro">IM</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq"> 12 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Trabajo de Fin de Grado</td>
+          <td class="cuerpo_tabla_centro">TFG</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq"> 12 Obligatorios</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" colspan="2">  Oferta total ECTS</td>
+          <td class="cuerpo_tabla_centro">252</td>
+          <td class="cuerpo_tabla_centro">240</td>
+          <td class="cuerpo_tabla_izq"> </td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>
